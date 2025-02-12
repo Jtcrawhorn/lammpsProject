@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp" "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o" "gcc" "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o.d"
   "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.cpp" "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.cpp.o" "gcc" "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.cpp.o.d"
   "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle_deprecated.cpp" "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle_deprecated.cpp.o" "gcc" "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle_deprecated.cpp.o.d"
   "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle_hybrid.cpp" "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle_hybrid.cpp.o" "gcc" "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle_hybrid.cpp.o.d"

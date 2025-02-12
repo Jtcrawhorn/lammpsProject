@@ -171,10 +171,8 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/text_file_reader.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/tokenizer.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/utils.h \
- /shared/common/mpich-4.2.0/include/mpi.h \
- /shared/common/mpich-4.2.0/include/mpi_proto.h \
- /shared/common/mpich-4.2.0/include/mpio.h \
- /shared/common/mpich-4.2.0/include/mpi.h /usr/include/c++/8/deque \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.h \
+ /usr/include/c++/8/stdlib.h /usr/include/c++/8/deque \
  /usr/include/c++/8/bits/stl_deque.h /usr/include/c++/8/bits/deque.tcc \
  /usr/include/dirent.h /usr/include/bits/dirent.h /usr/include/dlfcn.h \
  /usr/include/bits/dlfcn.h /usr/include/sys/resource.h \

@@ -5095,6 +5095,20 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp.s
 
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s
+
 # Object files for target lammps
 lammps_OBJECTS = \
 "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.cpp.o" \
@@ -5455,7 +5469,8 @@ lammps_OBJECTS = \
 "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_coeff.cpp.o" \
 "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_data.cpp.o" \
 "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_dump.cpp.o" \
-"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp.o"
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o"
 
 # External object files for target lammps
 lammps_EXTERNAL_OBJECTS =
@@ -5819,9 +5834,10 @@ liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-
 liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_data.cpp.o
 liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_dump.cpp.o
 liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o
 liblammps.a: CMakeFiles/lammps.dir/build.make
 liblammps.a: CMakeFiles/lammps.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Linking CXX static library liblammps.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_361) "Linking CXX static library liblammps.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/lammps.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lammps.dir/link.txt --verbose=$(VERBOSE)
 

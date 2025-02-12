@@ -39,8 +39,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-4tHcZI"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-4tHcZI"
+      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-kCNwVb"
+      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-kCNwVb"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -49,12 +49,12 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-4tHcZI
+        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-kCNwVb
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5c3d8/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_5c3d8.dir/build.make CMakeFiles/cmTC_5c3d8.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-4tHcZI'
-        Building CXX object CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o
-        /usr/bin/c++   -v -o CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_8c9eb/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_8c9eb.dir/build.make CMakeFiles/cmTC_8c9eb.dir/build
+        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-kCNwVb'
+        Building CXX object CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o
+        /usr/bin/c++   -v -o CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         OFFLOAD_TARGET_NAMES=nvptx-none
@@ -63,8 +63,8 @@ events:
         Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --disable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=x86-64 --build=x86_64-redhat-linux
         Thread model: posix
         gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-         /usr/libexec/gcc/x86_64-redhat-linux/8/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccXOjwpE.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+         /usr/libexec/gcc/x86_64-redhat-linux/8/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/cciJDg0I.s
         GNU C++14 (GCC) version 8.5.0 20210514 (Red Hat 8.5.0-22) (x86_64-redhat-linux)
         	compiled by GNU C version 8.5.0 20210514 (Red Hat 8.5.0-22), GMP version 6.1.2, MPFR version 3.1.6-p2, MPC version 1.1.0, isl version isl-0.16.1-GMP
         
@@ -85,15 +85,15 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: 26a99d4d4e375f64ba2cbb5d759621b3
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-         as -v --64 -o CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccXOjwpE.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+         as -v --64 -o CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o /tmp/cciJDg0I.s
         GNU assembler version 2.30 (x86_64-redhat-linux) using BFD version version 2.30-123.el8
         COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-        Linking CXX executable cmTC_5c3d8
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5c3d8.dir/link.txt --verbose=1
-        /usr/bin/c++  -v CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_5c3d8 
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+        Linking CXX executable cmTC_8c9eb
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c9eb.dir/link.txt --verbose=1
+        /usr/bin/c++  -v CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_8c9eb 
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper
@@ -105,10 +105,10 @@ events:
         gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC) 
         COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5c3d8' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-         /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccRgPp83.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_5c3d8 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5c3d8' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-4tHcZI'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8c9eb' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+         /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccYeNSrQ.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_8c9eb /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8c9eb' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-kCNwVb'
         
       exitCode: 0
   -
@@ -146,12 +146,12 @@ events:
     message: |
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-4tHcZI]
+        ignore line: [Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-kCNwVb]
         ignore line: []
-        ignore line: [Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5c3d8/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_5c3d8.dir/build.make CMakeFiles/cmTC_5c3d8.dir/build]
-        ignore line: [gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-4tHcZI']
-        ignore line: [Building CXX object CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o]
-        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_8c9eb/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_8c9eb.dir/build.make CMakeFiles/cmTC_8c9eb.dir/build]
+        ignore line: [gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-kCNwVb']
+        ignore line: [Building CXX object CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o]
+        ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
@@ -160,8 +160,8 @@ events:
         ignore line: [Configured with: ../configure --enable-bootstrap --enable-languages=c c++ fortran lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --disable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=x86-64 --build=x86_64-redhat-linux]
         ignore line: [Thread model: posix]
         ignore line: [gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-        ignore line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccXOjwpE.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+        ignore line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/cciJDg0I.s]
         ignore line: [GNU C++14 (GCC) version 8.5.0 20210514 (Red Hat 8.5.0-22) (x86_64-redhat-linux)]
         ignore line: [	compiled by GNU C version 8.5.0 20210514 (Red Hat 8.5.0-22)  GMP version 6.1.2  MPFR version 3.1.6-p2  MPC version 1.1.0  isl version isl-0.16.1-GMP]
         ignore line: []
@@ -182,15 +182,15 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: 26a99d4d4e375f64ba2cbb5d759621b3]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-        ignore line: [ as -v --64 -o CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccXOjwpE.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+        ignore line: [ as -v --64 -o CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o /tmp/cciJDg0I.s]
         ignore line: [GNU assembler version 2.30 (x86_64-redhat-linux) using BFD version version 2.30-123.el8]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-        ignore line: [Linking CXX executable cmTC_5c3d8]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5c3d8.dir/link.txt --verbose=1]
-        ignore line: [/usr/bin/c++  -v CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_5c3d8 ]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+        ignore line: [Linking CXX executable cmTC_8c9eb]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8c9eb.dir/link.txt --verbose=1]
+        ignore line: [/usr/bin/c++  -v CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_8c9eb ]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper]
@@ -202,13 +202,13 @@ events:
         ignore line: [gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC) ]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5c3d8' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-        link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccRgPp83.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_5c3d8 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_8c9eb' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+        link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccYeNSrQ.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_8c9eb /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o]
           arg [/usr/libexec/gcc/x86_64-redhat-linux/8/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccRgPp83.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/ccYeNSrQ.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -223,7 +223,7 @@ events:
           arg [-dynamic-linker] ==> ignore
           arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_5c3d8] ==> ignore
+          arg [cmTC_8c9eb] ==> ignore
           arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o] ==> obj [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o]
           arg [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o] ==> obj [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o]
           arg [/usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o] ==> obj [/usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o]
@@ -232,7 +232,7 @@ events:
           arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
           arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
           arg [-L/usr/lib/gcc/x86_64-redhat-linux/8/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/8/../../..]
-          arg [CMakeFiles/cmTC_5c3d8.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_8c9eb.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgcc_s] ==> lib [gcc_s]
@@ -256,10 +256,6 @@ events:
         implicit fwks: []
       
       
-...
-
----
-events:
   -
     kind: "try_compile-v1"
     backtrace:
@@ -269,8 +265,8 @@ events:
       - "CMakeLists.txt:400 (find_package)"
     description: "The MPI test test_mpi for CXX in mode normal"
     directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-LCRlR2"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-LCRlR2"
+      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-OSLbVg"
+      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-OSLbVg"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -281,19 +277,19 @@ events:
       variable: "MPI_RESULT_CXX_test_mpi_normal"
       cached: true
       stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-LCRlR2
+        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-OSLbVg
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5264e/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_5264e.dir/build.make CMakeFiles/cmTC_5264e.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-LCRlR2'
-        Building CXX object CMakeFiles/cmTC_5264e.dir/test_mpi.cpp.o
-        /usr/bin/c++   -std=c++17 -fPIE -o CMakeFiles/cmTC_5264e.dir/test_mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-LCRlR2/test_mpi.cpp
-        /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-LCRlR2/test_mpi.cpp:1:10: fatal error: mpi.h: No such file or directory
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_03fe5/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_03fe5.dir/build.make CMakeFiles/cmTC_03fe5.dir/build
+        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-OSLbVg'
+        Building CXX object CMakeFiles/cmTC_03fe5.dir/test_mpi.cpp.o
+        /usr/bin/c++   -std=c++17 -fPIE -o CMakeFiles/cmTC_03fe5.dir/test_mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-OSLbVg/test_mpi.cpp
+        /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-OSLbVg/test_mpi.cpp:1:10: fatal error: mpi.h: No such file or directory
          #include <mpi.h>
                   ^~~~~~~
         compilation terminated.
-        gmake[1]: *** [CMakeFiles/cmTC_5264e.dir/build.make:78: CMakeFiles/cmTC_5264e.dir/test_mpi.cpp.o] Error 1
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-LCRlR2'
-        gmake: *** [Makefile:127: cmTC_5264e/fast] Error 2
+        gmake[1]: *** [CMakeFiles/cmTC_03fe5.dir/build.make:78: CMakeFiles/cmTC_03fe5.dir/test_mpi.cpp.o] Error 1
+        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-OSLbVg'
+        gmake: *** [Makefile:127: cmTC_03fe5/fast] Error 2
         
       exitCode: 2
   -
@@ -304,8 +300,8 @@ events:
       - "CMakeLists.txt:465 (find_package)"
     description: "Detecting CXX OpenMP compiler info"
     directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV"
+      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN"
+      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -316,12 +312,12 @@ events:
       variable: "OpenMP_COMPILE_RESULT_CXX_fopenmp"
       cached: true
       stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV
+        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_045bd/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_045bd.dir/build.make CMakeFiles/cmTC_045bd.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV'
-        Building CXX object CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o
-        /usr/bin/c++   -fopenmp -v -std=c++17 -fPIE -o CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV/OpenMPTryFlag.cpp
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_13848/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_13848.dir/build.make CMakeFiles/cmTC_13848.dir/build
+        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN'
+        Building CXX object CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o
+        /usr/bin/c++   -fopenmp -v -std=c++17 -fPIE -o CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN/OpenMPTryFlag.cpp
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         OFFLOAD_TARGET_NAMES=nvptx-none
@@ -330,8 +326,8 @@ events:
         Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --disable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=x86-64 --build=x86_64-redhat-linux
         Thread model: posix
         gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC) 
-        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
-         /usr/libexec/gcc/x86_64-redhat-linux/8/cc1plus -quiet -v -D_GNU_SOURCE -D_REENTRANT /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV/OpenMPTryFlag.cpp -quiet -dumpbase OpenMPTryFlag.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o -std=c++17 -version -fopenmp -fPIE -o /tmp/ccIicTVc.s
+        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
+         /usr/libexec/gcc/x86_64-redhat-linux/8/cc1plus -quiet -v -D_GNU_SOURCE -D_REENTRANT /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN/OpenMPTryFlag.cpp -quiet -dumpbase OpenMPTryFlag.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o -std=c++17 -version -fopenmp -fPIE -o /tmp/ccH2xeYT.s
         GNU C++17 (GCC) version 8.5.0 20210514 (Red Hat 8.5.0-22) (x86_64-redhat-linux)
         	compiled by GNU C version 8.5.0 20210514 (Red Hat 8.5.0-22), GMP version 6.1.2, MPFR version 3.1.6-p2, MPC version 1.1.0, isl version isl-0.16.1-GMP
         
@@ -352,15 +348,15 @@ events:
         
         GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
         Compiler executable checksum: 26a99d4d4e375f64ba2cbb5d759621b3
-        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
-         as -v --64 -o CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o /tmp/ccIicTVc.s
+        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
+         as -v --64 -o CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o /tmp/ccH2xeYT.s
         GNU assembler version 2.30 (x86_64-redhat-linux) using BFD version version 2.30-123.el8
         COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/
-        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
-        Linking CXX executable cmTC_045bd
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_045bd.dir/link.txt --verbose=1
-        /usr/bin/c++  -fopenmp -v CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o -o cmTC_045bd  -v 
+        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
+        Linking CXX executable cmTC_13848
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_13848.dir/link.txt --verbose=1
+        /usr/bin/c++  -fopenmp -v CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o -o cmTC_13848  -v 
         Using built-in specs.
         COLLECT_GCC=/usr/bin/c++
         COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper
@@ -373,10 +369,10 @@ events:
         COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/
         LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/
         Reading specs from /usr/lib/gcc/x86_64-redhat-linux/8/libgomp.spec
-        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'cmTC_045bd' '-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
-         /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccA37ss2.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_045bd /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o /usr/lib/gcc/x86_64-redhat-linux/8/crtoffloadbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o -lstdc++ -lm -lgomp -lgcc_s -lgcc -lpthread -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o /usr/lib/gcc/x86_64-redhat-linux/8/crtoffloadend.o
-        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'cmTC_045bd' '-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV'
+        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'cmTC_13848' '-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
+         /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccURlHPR.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_13848 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o /usr/lib/gcc/x86_64-redhat-linux/8/crtoffloadbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o -lstdc++ -lm -lgomp -lgcc_s -lgcc -lpthread -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o /usr/lib/gcc/x86_64-redhat-linux/8/crtoffloadend.o
+        COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'cmTC_13848' '-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread'
+        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN'
         
       exitCode: 0
   -
@@ -388,12 +384,12 @@ events:
     message: |
       Parsed CXX OpenMP implicit link information from above output:
         link line regex: [^( *|.*[/\\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        ignore line: [Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV]
+        ignore line: [Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN]
         ignore line: []
-        ignore line: [Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_045bd/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_045bd.dir/build.make CMakeFiles/cmTC_045bd.dir/build]
-        ignore line: [gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV']
-        ignore line: [Building CXX object CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o]
-        ignore line: [/usr/bin/c++   -fopenmp -v -std=c++17 -fPIE -o CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV/OpenMPTryFlag.cpp]
+        ignore line: [Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_13848/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_13848.dir/build.make CMakeFiles/cmTC_13848.dir/build]
+        ignore line: [gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN']
+        ignore line: [Building CXX object CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o]
+        ignore line: [/usr/bin/c++   -fopenmp -v -std=c++17 -fPIE -o CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN/OpenMPTryFlag.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none]
@@ -402,8 +398,8 @@ events:
         ignore line: [Configured with: ../configure --enable-bootstrap --enable-languages=c c++ fortran lto --prefix=/usr --mandir=/usr/share/man --infodir=/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --with-gcc-major-version-only --with-linker-hash-style=gnu --enable-plugin --enable-initfini-array --with-isl --disable-libmpx --enable-offload-targets=nvptx-none --without-cuda-driver --enable-gnu-indirect-function --enable-cet --with-tune=generic --with-arch_32=x86-64 --build=x86_64-redhat-linux]
         ignore line: [Thread model: posix]
         ignore line: [gcc version 8.5.0 20210514 (Red Hat 8.5.0-22) (GCC) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread']
-        ignore line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/cc1plus -quiet -v -D_GNU_SOURCE -D_REENTRANT /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-e3bDJV/OpenMPTryFlag.cpp -quiet -dumpbase OpenMPTryFlag.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o -std=c++17 -version -fopenmp -fPIE -o /tmp/ccIicTVc.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread']
+        ignore line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/cc1plus -quiet -v -D_GNU_SOURCE -D_REENTRANT /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-tFKrIN/OpenMPTryFlag.cpp -quiet -dumpbase OpenMPTryFlag.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o -std=c++17 -version -fopenmp -fPIE -o /tmp/ccH2xeYT.s]
         ignore line: [GNU C++17 (GCC) version 8.5.0 20210514 (Red Hat 8.5.0-22) (x86_64-redhat-linux)]
         ignore line: [	compiled by GNU C version 8.5.0 20210514 (Red Hat 8.5.0-22)  GMP version 6.1.2  MPFR version 3.1.6-p2  MPC version 1.1.0  isl version isl-0.16.1-GMP]
         ignore line: []
@@ -424,15 +420,15 @@ events:
         ignore line: []
         ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
         ignore line: [Compiler executable checksum: 26a99d4d4e375f64ba2cbb5d759621b3]
-        ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread']
-        ignore line: [ as -v --64 -o CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o /tmp/ccIicTVc.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread']
+        ignore line: [ as -v --64 -o CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o /tmp/ccH2xeYT.s]
         ignore line: [GNU assembler version 2.30 (x86_64-redhat-linux) using BFD version version 2.30-123.el8]
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread']
-        ignore line: [Linking CXX executable cmTC_045bd]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_045bd.dir/link.txt --verbose=1]
-        ignore line: [/usr/bin/c++  -fopenmp -v CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o -o cmTC_045bd  -v ]
+        ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-std=c++17' '-fPIE' '-o' 'CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread']
+        ignore line: [Linking CXX executable cmTC_13848]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_13848.dir/link.txt --verbose=1]
+        ignore line: [/usr/bin/c++  -fopenmp -v CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o -o cmTC_13848  -v ]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/c++]
         ignore line: [COLLECT_LTO_WRAPPER=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper]
@@ -445,13 +441,13 @@ events:
         ignore line: [COMPILER_PATH=/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/8/:/usr/libexec/gcc/x86_64-redhat-linux/:/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-redhat-linux/8/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/usr/lib/gcc/x86_64-redhat-linux/8/../../../:/lib/:/usr/lib/]
         ignore line: [Reading specs from /usr/lib/gcc/x86_64-redhat-linux/8/libgomp.spec]
-        ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'cmTC_045bd' '-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread']
-        link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccA37ss2.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_045bd /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o /usr/lib/gcc/x86_64-redhat-linux/8/crtoffloadbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o -lstdc++ -lm -lgomp -lgcc_s -lgcc -lpthread -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o /usr/lib/gcc/x86_64-redhat-linux/8/crtoffloadend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-fopenmp' '-v' '-o' 'cmTC_13848' '-v' '-shared-libgcc' '-mtune=generic' '-march=x86-64' '-pthread']
+        link line: [ /usr/libexec/gcc/x86_64-redhat-linux/8/collect2 -plugin /usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so -plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper -plugin-opt=-fresolution=/tmp/ccURlHPR.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_13848 /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crt1.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crti.o /usr/lib/gcc/x86_64-redhat-linux/8/crtbegin.o /usr/lib/gcc/x86_64-redhat-linux/8/crtoffloadbegin.o -L/usr/lib/gcc/x86_64-redhat-linux/8 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/usr/lib/gcc/x86_64-redhat-linux/8/../../.. CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o -lstdc++ -lm -lgomp -lgcc_s -lgcc -lpthread -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-redhat-linux/8/crtend.o /usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64/crtn.o /usr/lib/gcc/x86_64-redhat-linux/8/crtoffloadend.o]
           arg [/usr/libexec/gcc/x86_64-redhat-linux/8/collect2] ==> ignore
           arg [-plugin] ==> ignore
           arg [/usr/libexec/gcc/x86_64-redhat-linux/8/liblto_plugin.so] ==> ignore
           arg [-plugin-opt=/usr/libexec/gcc/x86_64-redhat-linux/8/lto-wrapper] ==> ignore
-          arg [-plugin-opt=-fresolution=/tmp/ccA37ss2.res] ==> ignore
+          arg [-plugin-opt=-fresolution=/tmp/ccURlHPR.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
@@ -467,13 +463,13 @@ events:
           arg [-dynamic-linker] ==> ignore
           arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
           arg [-o] ==> ignore
-          arg [cmTC_045bd] ==> ignore
+          arg [cmTC_13848] ==> ignore
           arg [-L/usr/lib/gcc/x86_64-redhat-linux/8] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/8]
           arg [-L/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/8/../../../../lib64]
           arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
           arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
           arg [-L/usr/lib/gcc/x86_64-redhat-linux/8/../../..] ==> dir [/usr/lib/gcc/x86_64-redhat-linux/8/../../..]
-          arg [CMakeFiles/cmTC_045bd.dir/OpenMPTryFlag.cpp.o] ==> ignore
+          arg [CMakeFiles/cmTC_13848.dir/OpenMPTryFlag.cpp.o] ==> ignore
           arg [-lstdc++] ==> lib [stdc++]
           arg [-lm] ==> lib [m]
           arg [-lgomp] ==> lib [gomp]
@@ -502,8 +498,8 @@ events:
       - "CMakeLists.txt:465 (find_package)"
     description: "Detecting CXX OpenMP version"
     directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JlzEir"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JlzEir"
+      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-1WRXxc"
+      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-1WRXxc"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -514,16 +510,16 @@ events:
       variable: "OpenMP_SPECTEST_CXX_"
       cached: true
       stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JlzEir
+        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-1WRXxc
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_bbfb5/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_bbfb5.dir/build.make CMakeFiles/cmTC_bbfb5.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JlzEir'
-        Building CXX object CMakeFiles/cmTC_bbfb5.dir/OpenMPCheckVersion.cpp.o
-        /usr/bin/c++   -fopenmp -std=c++17 -fPIE -o CMakeFiles/cmTC_bbfb5.dir/OpenMPCheckVersion.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JlzEir/OpenMPCheckVersion.cpp
-        Linking CXX executable cmTC_bbfb5
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bbfb5.dir/link.txt --verbose=1
-        /usr/bin/c++  -fopenmp CMakeFiles/cmTC_bbfb5.dir/OpenMPCheckVersion.cpp.o -o cmTC_bbfb5 
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JlzEir'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_cbe52/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_cbe52.dir/build.make CMakeFiles/cmTC_cbe52.dir/build
+        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-1WRXxc'
+        Building CXX object CMakeFiles/cmTC_cbe52.dir/OpenMPCheckVersion.cpp.o
+        /usr/bin/c++   -fopenmp -std=c++17 -fPIE -o CMakeFiles/cmTC_cbe52.dir/OpenMPCheckVersion.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-1WRXxc/OpenMPCheckVersion.cpp
+        Linking CXX executable cmTC_cbe52
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cbe52.dir/link.txt --verbose=1
+        /usr/bin/c++  -fopenmp CMakeFiles/cmTC_cbe52.dir/OpenMPCheckVersion.cpp.o -o cmTC_cbe52 
+        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-1WRXxc'
         
       exitCode: 0
   -
@@ -535,8 +531,8 @@ events:
     checks:
       - "Looking for C++ include omp.h"
     directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-XXNjU4"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-XXNjU4"
+      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JoVvTf"
+      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JoVvTf"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -547,16 +543,16 @@ events:
       variable: "_have_omp_h"
       cached: true
       stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-XXNjU4
+        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JoVvTf
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_a709f/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_a709f.dir/build.make CMakeFiles/cmTC_a709f.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-XXNjU4'
-        Building CXX object CMakeFiles/cmTC_a709f.dir/CheckIncludeFile.cxx.o
-        /usr/bin/c++   -fopenmp -std=c++17 -fPIE -o CMakeFiles/cmTC_a709f.dir/CheckIncludeFile.cxx.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-XXNjU4/CheckIncludeFile.cxx
-        Linking CXX executable cmTC_a709f
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a709f.dir/link.txt --verbose=1
-        /usr/bin/c++  -fopenmp -fopenmp CMakeFiles/cmTC_a709f.dir/CheckIncludeFile.cxx.o -o cmTC_a709f  /usr/lib/gcc/x86_64-redhat-linux/8/libgomp.so /usr/lib64/libpthread.so 
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-XXNjU4'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_34c07/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_34c07.dir/build.make CMakeFiles/cmTC_34c07.dir/build
+        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JoVvTf'
+        Building CXX object CMakeFiles/cmTC_34c07.dir/CheckIncludeFile.cxx.o
+        /usr/bin/c++   -fopenmp -std=c++17 -fPIE -o CMakeFiles/cmTC_34c07.dir/CheckIncludeFile.cxx.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JoVvTf/CheckIncludeFile.cxx
+        Linking CXX executable cmTC_34c07
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_34c07.dir/link.txt --verbose=1
+        /usr/bin/c++  -fopenmp -fopenmp CMakeFiles/cmTC_34c07.dir/CheckIncludeFile.cxx.o -o cmTC_34c07  /usr/lib/gcc/x86_64-redhat-linux/8/libgomp.so /usr/lib64/libpthread.so 
+        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-JoVvTf'
         
       exitCode: 0
   -
@@ -567,8 +563,8 @@ events:
     checks:
       - "Looking for C++ include cmath"
     directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-khLhP1"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-khLhP1"
+      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-3Nq8Hm"
+      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-3Nq8Hm"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -579,161 +575,16 @@ events:
       variable: "FOUND_CMATH"
       cached: true
       stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-khLhP1
+        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-3Nq8Hm
         
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_13e64/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_13e64.dir/build.make CMakeFiles/cmTC_13e64.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-khLhP1'
-        Building CXX object CMakeFiles/cmTC_13e64.dir/CheckIncludeFile.cxx.o
-        /usr/bin/c++   -std=c++17 -fPIE -o CMakeFiles/cmTC_13e64.dir/CheckIncludeFile.cxx.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-khLhP1/CheckIncludeFile.cxx
-        Linking CXX executable cmTC_13e64
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_13e64.dir/link.txt --verbose=1
-        /usr/bin/c++ CMakeFiles/cmTC_13e64.dir/CheckIncludeFile.cxx.o -o cmTC_13e64 
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-khLhP1'
-        
-      exitCode: 0
-...
-
----
-events:
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:400 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode normal"
-    directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-oCWIAY"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-oCWIAY"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: ""
-      CMAKE_CXX_FLAGS_DEBUG: "-g"
-      CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules"
-      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-oCWIAY
-        
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_9cf8b/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_9cf8b.dir/build.make CMakeFiles/cmTC_9cf8b.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-oCWIAY'
-        Building CXX object CMakeFiles/cmTC_9cf8b.dir/test_mpi.cpp.o
-        /usr/bin/c++   -std=c++17 -fPIE -o CMakeFiles/cmTC_9cf8b.dir/test_mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-oCWIAY/test_mpi.cpp
-        /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-oCWIAY/test_mpi.cpp:1:10: fatal error: mpi.h: No such file or directory
-         #include <mpi.h>
-                  ^~~~~~~
-        compilation terminated.
-        gmake[1]: *** [CMakeFiles/cmTC_9cf8b.dir/build.make:78: CMakeFiles/cmTC_9cf8b.dir/test_mpi.cpp.o] Error 1
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-oCWIAY'
-        gmake: *** [Makefile:127: cmTC_9cf8b/fast] Error 2
-        
-      exitCode: 2
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:414 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode normal"
-    directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-0KCRlv"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-0KCRlv"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: ""
-      CMAKE_CXX_FLAGS_DEBUG: "-g"
-      CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules"
-      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-0KCRlv
-        
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_d4f38/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_d4f38.dir/build.make CMakeFiles/cmTC_d4f38.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-0KCRlv'
-        Building CXX object CMakeFiles/cmTC_d4f38.dir/test_mpi.cpp.o
-        /usr/bin/c++ -DMPICH_SKIP_MPICXX -DOMPI_SKIP_MPICXX -D_MPICC_H  -std=c++17 -fPIE -o CMakeFiles/cmTC_d4f38.dir/test_mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-0KCRlv/test_mpi.cpp
-        /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-0KCRlv/test_mpi.cpp:1:10: fatal error: mpi.h: No such file or directory
-         #include <mpi.h>
-                  ^~~~~~~
-        compilation terminated.
-        gmake[1]: *** [CMakeFiles/cmTC_d4f38.dir/build.make:78: CMakeFiles/cmTC_d4f38.dir/test_mpi.cpp.o] Error 1
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-0KCRlv'
-        gmake: *** [Makefile:127: cmTC_d4f38/fast] Error 2
-        
-      exitCode: 2
-...
-
----
-events:
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:400 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode normal"
-    directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-K5lXSX"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-K5lXSX"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: ""
-      CMAKE_CXX_FLAGS_DEBUG: "-g"
-      CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules"
-      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-K5lXSX
-        
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ea222/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_ea222.dir/build.make CMakeFiles/cmTC_ea222.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-K5lXSX'
-        Building CXX object CMakeFiles/cmTC_ea222.dir/test_mpi.cpp.o
-        /usr/bin/c++ -DMPICH_SKIP_MPICXX -DOMPI_SKIP_MPICXX -D_MPICC_H -isystem /shared/common/mpich-4.2.0/include -std=c++17 -fPIE -o CMakeFiles/cmTC_ea222.dir/test_mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-K5lXSX/test_mpi.cpp
-        Linking CXX executable cmTC_ea222
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ea222.dir/link.txt --verbose=1
-        /usr/bin/c++ -Wl,-rpath -Wl,/shared/common/mpich-4.2.0/lib -Wl,--enable-new-dtags CMakeFiles/cmTC_ea222.dir/test_mpi.cpp.o -o cmTC_ea222  -Wl,-rpath,/shared/common/mpich-4.2.0/lib /shared/common/mpich-4.2.0/lib/libmpicxx.so /shared/common/mpich-4.2.0/lib/libmpi.so 
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-K5lXSX'
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "/usr/share/cmake/Modules/FindMPI.cmake:1672 (_MPI_try_staged_settings)"
-      - "CMakeLists.txt:400 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode MPICXX"
-    directories:
-      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-O8gVK9"
-      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-O8gVK9"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: ""
-      CMAKE_CXX_FLAGS_DEBUG: "-g"
-      CMAKE_EXE_LINKER_FLAGS: ""
-      CMAKE_MODULE_PATH: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules"
-      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
-      cached: true
-      stdout: |
-        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-O8gVK9
-        
-        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_874da/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_874da.dir/build.make CMakeFiles/cmTC_874da.dir/build
-        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-O8gVK9'
-        Building CXX object CMakeFiles/cmTC_874da.dir/test_mpi.cpp.o
-        /usr/bin/c++ -DMPICH_SKIP_MPICXX -DOMPI_SKIP_MPICXX -D_MPICC_H -isystem /shared/common/mpich-4.2.0/include -std=c++17 -fPIE -o CMakeFiles/cmTC_874da.dir/test_mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-O8gVK9/test_mpi.cpp
-        Linking CXX executable cmTC_874da
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_874da.dir/link.txt --verbose=1
-        /usr/bin/c++ -Wl,-rpath -Wl,/shared/common/mpich-4.2.0/lib -Wl,--enable-new-dtags CMakeFiles/cmTC_874da.dir/test_mpi.cpp.o -o cmTC_874da  -Wl,-rpath,/shared/common/mpich-4.2.0/lib /shared/common/mpich-4.2.0/lib/libmpicxx.so /shared/common/mpich-4.2.0/lib/libmpi.so 
-        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-O8gVK9'
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_ad77d/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_ad77d.dir/build.make CMakeFiles/cmTC_ad77d.dir/build
+        gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-3Nq8Hm'
+        Building CXX object CMakeFiles/cmTC_ad77d.dir/CheckIncludeFile.cxx.o
+        /usr/bin/c++   -std=c++17 -fPIE -o CMakeFiles/cmTC_ad77d.dir/CheckIncludeFile.cxx.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-3Nq8Hm/CheckIncludeFile.cxx
+        Linking CXX executable cmTC_ad77d
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ad77d.dir/link.txt --verbose=1
+        /usr/bin/c++ CMakeFiles/cmTC_ad77d.dir/CheckIncludeFile.cxx.o -o cmTC_ad77d 
+        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-3Nq8Hm'
         
       exitCode: 0
 ...

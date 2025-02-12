@@ -44,10 +44,8 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /usr/include/bits/pthreadtypes-arch.h /usr/include/alloca.h \
  /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
  /usr/include/c++/8/bits/std_abs.h \
- /shared/common/mpich-4.2.0/include/mpi.h \
- /shared/common/mpich-4.2.0/include/mpi_proto.h \
- /shared/common/mpich-4.2.0/include/mpio.h \
- /shared/common/mpich-4.2.0/include/mpi.h /usr/include/c++/8/cstddef \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.h \
+ /usr/include/c++/8/stdlib.h /usr/include/c++/8/cstddef \
  /usr/include/c++/8/cstdio /usr/include/stdio.h \
  /usr/lib/gcc/x86_64-redhat-linux/8/include/stdarg.h \
  /usr/include/bits/types/__fpos_t.h /usr/include/bits/types/__mbstate_t.h \

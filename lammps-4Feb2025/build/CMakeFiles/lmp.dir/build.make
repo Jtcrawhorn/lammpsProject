@@ -95,8 +95,6 @@ lmp: CMakeFiles/lmp.dir/build.make
 lmp: liblammps.a
 lmp: /usr/lib/gcc/x86_64-redhat-linux/8/libgomp.so
 lmp: /usr/lib64/libpthread.so
-lmp: /shared/common/mpich-4.2.0/lib/libmpicxx.so
-lmp: /shared/common/mpich-4.2.0/lib/libmpi.so
 lmp: /usr/lib64/libm.so
 lmp: CMakeFiles/lmp.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable lmp"

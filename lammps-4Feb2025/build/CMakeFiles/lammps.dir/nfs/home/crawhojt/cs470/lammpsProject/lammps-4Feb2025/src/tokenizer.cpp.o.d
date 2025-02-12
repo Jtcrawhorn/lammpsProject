@@ -170,7 +170,5 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fmt/core.h \
  /usr/include/c++/8/cstddef \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/utils.h \
- /shared/common/mpich-4.2.0/include/mpi.h \
- /shared/common/mpich-4.2.0/include/mpi_proto.h \
- /shared/common/mpich-4.2.0/include/mpio.h \
- /shared/common/mpich-4.2.0/include/mpi.h
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.h \
+ /usr/include/c++/8/stdlib.h

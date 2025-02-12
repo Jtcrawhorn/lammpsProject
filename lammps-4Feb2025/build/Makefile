@@ -799,6 +799,30 @@ fix-permissions/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fix-permissions.dir/build.make CMakeFiles/fix-permissions.dir/build
 .PHONY : fix-permissions/fast
 
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s
+
 nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.cpp.o
 .PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.o
 
@@ -9500,6 +9524,9 @@ help:
 	@echo "... variable.h"
 	@echo "... lammps"
 	@echo "... lmp"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.s"
 	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.o"
 	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.i"
 	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.s"

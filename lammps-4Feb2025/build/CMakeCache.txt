@@ -21,7 +21,7 @@ BUILD_DOC:BOOL=OFF
 BUILD_LAMMPS_GUI:BOOL=OFF
 
 //Build MPI version
-BUILD_MPI:BOOL=ON
+BUILD_MPI:BOOL=OFF
 
 //Build with OpenMP support
 BUILD_OMP:BOOL=ON
@@ -134,8 +134,8 @@ CMAKE_INSTALL_MANDIR:PATH=
 //C header files for non-gcc (/usr/include)
 CMAKE_INSTALL_OLDINCLUDEDIR:PATH=/usr/include
 
-//Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=/nfs/home/crawhojt/lammps-install
+//Default install path
+CMAKE_INSTALL_PREFIX:PATH=/nfs/home/crawhojt/.local
 
 //Run-time variable data (LOCALSTATEDIR/run)
 CMAKE_INSTALL_RUNSTATEDIR:PATH=
@@ -305,10 +305,6 @@ LAMMPS_DOWNLOADS_URL:STRING=https://download.lammps.org
 //Set runtime path for shared libraries linked to LAMMPS binaries
 LAMMPS_INSTALL_RPATH:BOOL=OFF
 
-//Workaround if your system or MPI version does not recognize 'long
-// long' data types
-LAMMPS_LONGLONG_TO_LONG:BOOL=OFF
-
 //Suffix to append to lmp binary (WON'T enable any features automatically
 LAMMPS_MACHINE:STRING=
 
@@ -343,34 +339,28 @@ MPIEXEC_PREFLAGS:STRING=
 MPI_CXX_ADDITIONAL_INCLUDE_DIRS:STRING=
 
 //MPI compiler for CXX
-MPI_CXX_COMPILER:FILEPATH=/shared/common/mpich-4.2.0/bin/mpicxx
+MPI_CXX_COMPILER:FILEPATH=MPI_CXX_COMPILER-NOTFOUND
 
 //MPI CXX compiler wrapper include directories
-MPI_CXX_COMPILER_INCLUDE_DIRS:STRING=/shared/common/mpich-4.2.0/include
+MPI_CXX_COMPILER_INCLUDE_DIRS:STRING=
 
 //MPI CXX compilation definitions
-MPI_CXX_COMPILE_DEFINITIONS:STRING=MPICH_SKIP_MPICXX;OMPI_SKIP_MPICXX;_MPICC_H
+MPI_CXX_COMPILE_DEFINITIONS:STRING=
 
-//MPI CXX compilation options
+//MPI CXX compilation flags
 MPI_CXX_COMPILE_OPTIONS:STRING=
 
 //Path to a file.
-MPI_CXX_HEADER_DIR:PATH=/shared/common/mpich-4.2.0/include
+MPI_CXX_HEADER_DIR:PATH=MPI_CXX_HEADER_DIR-NOTFOUND
 
 //MPI CXX libraries to link against
-MPI_CXX_LIB_NAMES:STRING=mpicxx;mpi
+MPI_CXX_LIB_NAMES:STRING=
 
 //MPI CXX linker flags
-MPI_CXX_LINK_FLAGS:STRING=-Wl,-rpath -Wl,/shared/common/mpich-4.2.0/lib -Wl,--enable-new-dtags
+MPI_CXX_LINK_FLAGS:STRING=
 
 //If true, the MPI-2 C++ bindings are disabled using definitions.
 MPI_CXX_SKIP_MPICXX:BOOL=OFF
-
-//Location of the mpi library for MPI
-MPI_mpi_LIBRARY:FILEPATH=/shared/common/mpich-4.2.0/lib/libmpi.so
-
-//Location of the mpicxx library for MPI
-MPI_mpicxx_LIBRARY:FILEPATH=/shared/common/mpich-4.2.0/lib/libmpicxx.so
 
 //CXX compiler flags for OpenMP parallelization
 OpenMP_CXX_FLAGS:STRING=-fopenmp
@@ -896,10 +886,6 @@ ENABLE_SANITIZER-STRINGS:INTERNAL=none;address;hwaddress;leak;thread;undefined
 FIND_PACKAGE_MESSAGE_DETAILS_GZIP:INTERNAL=[/usr/bin/gzip][v()]
 //Details about finding Git
 FIND_PACKAGE_MESSAGE_DETAILS_Git:INTERNAL=[/usr/bin/git][v2.43.5()]
-//Details about finding MPI
-FIND_PACKAGE_MESSAGE_DETAILS_MPI:INTERNAL=[TRUE][c ][v4.1()]
-//Details about finding MPI_CXX
-FIND_PACKAGE_MESSAGE_DETAILS_MPI_CXX:INTERNAL=[/shared/common/mpich-4.2.0/lib/libmpicxx.so][/shared/common/mpich-4.2.0/lib/libmpi.so][mpicxx;mpi][/shared/common/mpich-4.2.0/include][TRUE][v4.1()]
 //Details about finding OpenMP
 FIND_PACKAGE_MESSAGE_DETAILS_OpenMP:INTERNAL=[TRUE][cfound components: CXX ][v4.5()]
 //Details about finding OpenMP_CXX
@@ -976,13 +962,7 @@ MPI_CXX_PKG_mpi-cxx_VERSION:INTERNAL=
 //ADVANCED property for variable: MPI_CXX_SKIP_MPICXX
 MPI_CXX_SKIP_MPICXX-ADVANCED:INTERNAL=1
 //Result of TRY_COMPILE
-MPI_RESULT_CXX_test_mpi_MPICXX:INTERNAL=TRUE
-//Result of TRY_COMPILE
-MPI_RESULT_CXX_test_mpi_normal:INTERNAL=TRUE
-//ADVANCED property for variable: MPI_mpi_LIBRARY
-MPI_mpi_LIBRARY-ADVANCED:INTERNAL=1
-//ADVANCED property for variable: MPI_mpicxx_LIBRARY
-MPI_mpicxx_LIBRARY-ADVANCED:INTERNAL=1
+MPI_RESULT_CXX_test_mpi_normal:INTERNAL=FALSE
 //Result of TRY_COMPILE
 OpenMP_COMPILE_RESULT_CXX_fopenmp:INTERNAL=TRUE
 //ADVANCED property for variable: OpenMP_CXX_FLAGS
@@ -1018,7 +998,7 @@ ZLIB_LIBRARY_RELEASE-ADVANCED:INTERNAL=1
 //linker supports push/pop state
 _CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED:INTERNAL=TRUE
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/nfs/home/crawhojt/lammps-install
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/usr/local
 //Compiler reason failure
 _Python3_Compiler_REASON_FAILURE:INTERNAL=
 //Development reason failure
@@ -1028,8 +1008,6 @@ _Python3_EXECUTABLE:INTERNAL=/usr/bin/python3.12
 //Python3 Properties
 _Python3_INTERPRETER_PROPERTIES:INTERNAL=Python;3;12;5;64;;cpython-312-x86_64-linux-gnu;abi3;/usr/lib64/python3.12;/usr/local/lib64/python3.12;/usr/local/lib/python3.12/site-packages;/usr/local/lib64/python3.12/site-packages
 _Python3_INTERPRETER_SIGNATURE:INTERNAL=0b516266b7ed9a0986c924c82c2c3a08
-//Interpreter reason failure
-_Python3_Interpreter_REASON_FAILURE:INTERNAL=
 //NumPy reason failure
 _Python3_NumPy_REASON_FAILURE:INTERNAL=
 __pkg_config_checked_MPI_CXX_PKG:INTERNAL=1
