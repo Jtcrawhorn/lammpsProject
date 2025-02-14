@@ -32,7 +32,7 @@ neigh_modify every 1 delay 0     # Update neighbor list every step
 fix          1 all nve           # Apply NVE (constant energy) integration
 
 thermo       100                 # Output thermodynamic info every 100 steps
-run          1000                # Run for 999 timesteps
+run          1000                # Run for 1000 timesteps
 Generated 0 of 0 mixed pair_coeff terms from geometric mixing rule
 Neighbor list info ...
   update: every = 1 steps, delay = 0 steps, check = yes
@@ -59,20 +59,20 @@ Per MPI rank memory allocation (min/avg/max) = 3.722 | 3.722 | 3.722 Mbytes
        800   0.54357509    -6.0951191      0             -5.2799603     -1.7669244    
        900   0.54683604    -6.1003979      0             -5.2803489     -1.7999736    
       1000   0.55155592    -6.1077894      0             -5.2806624     -1.8293763    
-Loop time of 2.57337 on 1 procs for 1000 steps with 4000 atoms
+Loop time of 2.58315 on 1 procs for 1000 steps with 4000 atoms
 
-Performance: 167873.010 tau/day, 388.595 timesteps/s, 1.554 Matom-step/s
-99.6% CPU use with 1 MPI tasks x 1 OpenMP threads
+Performance: 167237.995 tau/day, 387.125 timesteps/s, 1.548 Matom-step/s
+99.5% CPU use with 1 MPI tasks x 1 OpenMP threads
 
 MPI task timing breakdown:
 Section |  min time  |  avg time  |  max time  |%varavg| %total
 ---------------------------------------------------------------
-Pair    | 1.9002     | 1.9002     | 1.9002     |   0.0 | 73.84
-Neigh   | 0.60118    | 0.60118    | 0.60118    |   0.0 | 23.36
-Comm    | 0.031629   | 0.031629   | 0.031629   |   0.0 |  1.23
-Output  | 0.0001895  | 0.0001895  | 0.0001895  |   0.0 |  0.01
-Modify  | 0.028292   | 0.028292   | 0.028292   |   0.0 |  1.10
-Other   |            | 0.01186    |            |       |  0.46
+Pair    | 1.906      | 1.906      | 1.906      |   0.0 | 73.79
+Neigh   | 0.60499    | 0.60499    | 0.60499    |   0.0 | 23.42
+Comm    | 0.031773   | 0.031773   | 0.031773   |   0.0 |  1.23
+Output  | 0.00021246 | 0.00021246 | 0.00021246 |   0.0 |  0.01
+Modify  | 0.028192   | 0.028192   | 0.028192   |   0.0 |  1.09
+Other   |            | 0.01196    |            |       |  0.46
 
 Nlocal:           4000 ave        4000 max        4000 min
 Histogram: 1 0 0 0 0 0 0 0 0 0
