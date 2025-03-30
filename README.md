@@ -15,4 +15,4 @@ ran with this:
 mpirun -np 4 /nfs/home/owenjd/cs470/laamps-final/lammpsProject/lammps-4Feb2025/build/lmp -in input.lj
 
 
-This is explains what body does. https://docs.lammps.org/Howto_body.html 
+This is explains what body does. https://docs.lammps.org/Howto_body.html    
