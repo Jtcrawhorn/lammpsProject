@@ -127,6 +127,23 @@ clean: CMakeFiles/fix-permissions.dir/clean
 # Target rules for target CMakeFiles/lammps.dir
 
 # All Build rule for target.
+CMakeFiles/lammps.dir/all: CMakeFiles/improper.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/input.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/info.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/kspace.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/lammps.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/lattice.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/library.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/lmppython.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/lmptype.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/memory.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/modify.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/neighbor.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/neigh_list.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/output.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/pair.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/platform.h.dir/all
+CMakeFiles/lammps.dir/all: CMakeFiles/pointers.h.dir/all
 CMakeFiles/lammps.dir/all: CMakeFiles/region.h.dir/all
 CMakeFiles/lammps.dir/all: CMakeFiles/timer.h.dir/all
 CMakeFiles/lammps.dir/all: CMakeFiles/universe.h.dir/all
@@ -150,26 +167,9 @@ CMakeFiles/lammps.dir/all: CMakeFiles/exceptions.h.dir/all
 CMakeFiles/lammps.dir/all: CMakeFiles/fix.h.dir/all
 CMakeFiles/lammps.dir/all: CMakeFiles/force.h.dir/all
 CMakeFiles/lammps.dir/all: CMakeFiles/group.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/improper.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/input.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/info.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/kspace.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/lammps.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/lattice.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/library.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/lmppython.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/lmptype.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/memory.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/modify.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/neighbor.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/neigh_list.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/output.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/pair.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/platform.h.dir/all
-CMakeFiles/lammps.dir/all: CMakeFiles/pointers.h.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94 "Built target lammps"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96 "Built target lammps"
 .PHONY : CMakeFiles/lammps.dir/all
 
 # Build rule for subdir invocation for target.
@@ -195,7 +195,7 @@ CMakeFiles/lammps.dir/clean:
 CMakeFiles/lmp.dir/all: CMakeFiles/lammps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lmp.dir/build.make CMakeFiles/lmp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lmp.dir/build.make CMakeFiles/lmp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=96 "Built target lmp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=97 "Built target lmp"
 .PHONY : CMakeFiles/lmp.dir/all
 
 # Build rule for subdir invocation for target.
@@ -377,12 +377,12 @@ CMakeFiles/comm.h.dir/clean:
 CMakeFiles/command.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/command.h.dir/build.make CMakeFiles/command.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/command.h.dir/build.make CMakeFiles/command.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=2 "Built target command.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target command.h"
 .PHONY : CMakeFiles/command.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/command.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/command.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/command.h.dir/rule
@@ -429,12 +429,12 @@ CMakeFiles/compute.h.dir/clean:
 CMakeFiles/dihedral.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dihedral.h.dir/build.make CMakeFiles/dihedral.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/dihedral.h.dir/build.make CMakeFiles/dihedral.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target dihedral.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=2 "Built target dihedral.h"
 .PHONY : CMakeFiles/dihedral.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/dihedral.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/dihedral.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/dihedral.h.dir/rule
@@ -481,12 +481,12 @@ CMakeFiles/domain.h.dir/clean:
 CMakeFiles/error.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/error.h.dir/build.make CMakeFiles/error.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/error.h.dir/build.make CMakeFiles/error.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=3 "Built target error.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target error.h"
 .PHONY : CMakeFiles/error.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/error.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/error.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/error.h.dir/rule
@@ -559,12 +559,12 @@ CMakeFiles/fix.h.dir/clean:
 CMakeFiles/force.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/force.h.dir/build.make CMakeFiles/force.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/force.h.dir/build.make CMakeFiles/force.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=5 "Built target force.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target force.h"
 .PHONY : CMakeFiles/force.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/force.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/force.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/force.h.dir/rule
@@ -585,12 +585,12 @@ CMakeFiles/force.h.dir/clean:
 CMakeFiles/group.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/group.h.dir/build.make CMakeFiles/group.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/group.h.dir/build.make CMakeFiles/group.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target group.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=4 "Built target group.h"
 .PHONY : CMakeFiles/group.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/group.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/group.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/group.h.dir/rule
@@ -637,12 +637,12 @@ CMakeFiles/improper.h.dir/clean:
 CMakeFiles/input.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/input.h.dir/build.make CMakeFiles/input.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/input.h.dir/build.make CMakeFiles/input.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=6 "Built target input.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target input.h"
 .PHONY : CMakeFiles/input.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/input.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/input.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/input.h.dir/rule
@@ -715,12 +715,12 @@ CMakeFiles/kspace.h.dir/clean:
 CMakeFiles/lammps.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.h.dir/build.make CMakeFiles/lammps.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.h.dir/build.make CMakeFiles/lammps.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=95 "Built target lammps.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target lammps.h"
 .PHONY : CMakeFiles/lammps.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/lammps.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/lammps.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/lammps.h.dir/rule
@@ -871,12 +871,12 @@ CMakeFiles/memory.h.dir/clean:
 CMakeFiles/modify.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/modify.h.dir/build.make CMakeFiles/modify.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/modify.h.dir/build.make CMakeFiles/modify.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=97 "Built target modify.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target modify.h"
 .PHONY : CMakeFiles/modify.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/modify.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/modify.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/modify.h.dir/rule
@@ -897,12 +897,12 @@ CMakeFiles/modify.h.dir/clean:
 CMakeFiles/neighbor.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/neighbor.h.dir/build.make CMakeFiles/neighbor.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/neighbor.h.dir/build.make CMakeFiles/neighbor.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target neighbor.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=98 "Built target neighbor.h"
 .PHONY : CMakeFiles/neighbor.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/neighbor.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/neighbor.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/neighbor.h.dir/rule
@@ -975,12 +975,12 @@ CMakeFiles/output.h.dir/clean:
 CMakeFiles/pair.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pair.h.dir/build.make CMakeFiles/pair.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/pair.h.dir/build.make CMakeFiles/pair.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=98 "Built target pair.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target pair.h"
 .PHONY : CMakeFiles/pair.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/pair.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/pair.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/pair.h.dir/rule
@@ -1053,12 +1053,12 @@ CMakeFiles/pointers.h.dir/clean:
 CMakeFiles/region.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/region.h.dir/build.make CMakeFiles/region.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/region.h.dir/build.make CMakeFiles/region.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target region.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=99 "Built target region.h"
 .PHONY : CMakeFiles/region.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/region.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/region.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/region.h.dir/rule
@@ -1079,12 +1079,12 @@ CMakeFiles/region.h.dir/clean:
 CMakeFiles/timer.h.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/timer.h.dir/build.make CMakeFiles/timer.h.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/timer.h.dir/build.make CMakeFiles/timer.h.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=99 "Built target timer.h"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target timer.h"
 .PHONY : CMakeFiles/timer.h.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/timer.h.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/timer.h.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/timer.h.dir/rule
@@ -1287,12 +1287,12 @@ CMakeFiles/install-python.dir/clean:
 CMakeFiles/check-whitespace.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/check-whitespace.dir/build.make CMakeFiles/check-whitespace.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/check-whitespace.dir/build.make CMakeFiles/check-whitespace.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target check-whitespace"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=1 "Built target check-whitespace"
 .PHONY : CMakeFiles/check-whitespace.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/check-whitespace.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/check-whitespace.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/check-whitespace.dir/rule
@@ -1339,12 +1339,12 @@ CMakeFiles/check-homepage.dir/clean:
 CMakeFiles/check-permissions.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/check-permissions.dir/build.make CMakeFiles/check-permissions.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/check-permissions.dir/build.make CMakeFiles/check-permissions.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=1 "Built target check-permissions"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num= "Built target check-permissions"
 .PHONY : CMakeFiles/check-permissions.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/check-permissions.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/check-permissions.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles 0
 .PHONY : CMakeFiles/check-permissions.dir/rule
@@ -1365,7 +1365,7 @@ CMakeFiles/check-permissions.dir/clean:
 CMakeFiles/fix-whitespace.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fix-whitespace.dir/build.make CMakeFiles/fix-whitespace.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fix-whitespace.dir/build.make CMakeFiles/fix-whitespace.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=4 "Built target fix-whitespace"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=3 "Built target fix-whitespace"
 .PHONY : CMakeFiles/fix-whitespace.dir/all
 
 # Build rule for subdir invocation for target.

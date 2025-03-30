@@ -799,29 +799,3413 @@ fix-permissions/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/fix-permissions.dir/build.make CMakeFiles/fix-permissions.dir/build
 .PHONY : fix-permissions/fast
 
-nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o
-.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.o
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.o
 
 # target to build an object file
-nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o
-.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o
 
-nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i
-.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.i
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.i
 
 # target to preprocess a source file
-nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i
-.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.i
 
-nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s
-.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.s
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.s
 
 # target to generate assembly for a file
-nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s
-.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.s
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.o
+
+# target to build an object file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.i: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.i
+
+# target to preprocess a source file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.i
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.i
+
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.s: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.s
+
+# target to generate assembly for a file
+nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lammps.dir/build.make CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.s
+.PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.s
 
 nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.o: nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.cpp.o
 .PHONY : nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.o
@@ -9524,9 +12908,432 @@ help:
 	@echo "... variable.h"
 	@echo "... lammps"
 	@echo "... lmp"
-	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.o"
-	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.i"
-	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.s"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.o"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.i"
+	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.s"
 	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.o"
 	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.i"
 	@echo "... nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/angle.s"

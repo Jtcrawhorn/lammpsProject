@@ -42,8 +42,10 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /usr/include/bits/pthreadtypes-arch.h /usr/include/alloca.h \
  /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
  /usr/include/c++/8/bits/std_abs.h \
- /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.h \
- /usr/include/c++/8/stdlib.h /usr/include/c++/8/cstddef \
+ /shared/common/mpich-4.2.0/include/mpi.h \
+ /shared/common/mpich-4.2.0/include/mpi_proto.h \
+ /shared/common/mpich-4.2.0/include/mpio.h \
+ /shared/common/mpich-4.2.0/include/mpi.h /usr/include/c++/8/cstddef \
  /usr/include/c++/8/cstdio /usr/include/stdio.h \
  /usr/lib/gcc/x86_64-redhat-linux/8/include/stdarg.h \
  /usr/include/bits/types/__fpos_t.h /usr/include/bits/types/__mbstate_t.h \
@@ -182,13 +184,19 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /usr/include/c++/8/bits/stl_multiset.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/styles/style_atom.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec_atomic.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec_body.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec_charge.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec_ellipsoid.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec_hybrid.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec_line.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec_sphere.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom_vec_tri.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/comm.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute.h \

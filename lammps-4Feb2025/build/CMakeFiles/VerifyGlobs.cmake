@@ -1177,6 +1177,9 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
 endif()
 
 # BODY_HEADERS at CMakeLists.txt:670 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
@@ -1203,6 +1206,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/angle_*.h")
 set(OLD_GLOB
@@ -1212,6 +1216,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/atom_vec_*.h")
 set(OLD_GLOB
@@ -1221,6 +1226,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_*.h")
 set(OLD_GLOB
@@ -1233,6 +1239,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/bond_*.h")
 set(OLD_GLOB
@@ -1242,6 +1249,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_*.h")
 set(OLD_GLOB
@@ -1253,6 +1261,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/dihedral_*.h")
 set(OLD_GLOB
@@ -1262,6 +1271,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/dump_*.h")
 set(OLD_GLOB
@@ -1271,6 +1281,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_*.h")
 set(OLD_GLOB
@@ -1287,6 +1298,16 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/gran_sub_mod_*.h")
+set(OLD_GLOB
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
+endif()
+
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/improper_*.h")
 set(OLD_GLOB
@@ -1296,6 +1317,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/min_*.h")
 set(OLD_GLOB
@@ -1305,6 +1327,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/nbin_*.h")
 set(OLD_GLOB
@@ -1314,6 +1337,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/npair_*.h")
 set(OLD_GLOB
@@ -1323,6 +1347,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/nstencil_*.h")
 set(OLD_GLOB
@@ -1332,6 +1357,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/ntopo_*.h")
 set(OLD_GLOB
@@ -1341,6 +1367,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_*.h")
 set(OLD_GLOB
@@ -1353,6 +1380,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/reader_*.h")
 set(OLD_GLOB
@@ -1362,6 +1390,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/region_*.h")
 set(OLD_GLOB
@@ -9217,6 +9246,9 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
 endif()
 
 # KSPACE_HEADERS at CMakeLists.txt:670 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
@@ -9265,6 +9297,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/angle_*.h")
 set(OLD_GLOB
@@ -9274,6 +9307,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/atom_vec_*.h")
 set(OLD_GLOB
@@ -9283,6 +9317,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/body_*.h")
 set(OLD_GLOB
@@ -9292,6 +9327,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/bond_*.h")
 set(OLD_GLOB
@@ -9301,6 +9337,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/compute_*.h")
 set(OLD_GLOB
@@ -9310,6 +9347,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/dihedral_*.h")
 set(OLD_GLOB
@@ -9319,6 +9357,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/dump_*.h")
 set(OLD_GLOB
@@ -9328,6 +9367,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_*.h")
 set(OLD_GLOB
@@ -9338,6 +9378,16 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/gran_sub_mod_*.h")
+set(OLD_GLOB
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
+endif()
+
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/improper_*.h")
 set(OLD_GLOB
@@ -9347,6 +9397,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/min_*.h")
 set(OLD_GLOB
@@ -9356,6 +9407,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/nbin_*.h")
 set(OLD_GLOB
@@ -9365,6 +9417,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/npair_*.h")
 set(OLD_GLOB
@@ -9374,6 +9427,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/nstencil_*.h")
 set(OLD_GLOB
@@ -9383,6 +9437,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ntopo_*.h")
 set(OLD_GLOB
@@ -9392,6 +9447,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_*.h")
 set(OLD_GLOB
@@ -9418,6 +9474,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/reader_*.h")
 set(OLD_GLOB
@@ -9427,6 +9484,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/region_*.h")
 set(OLD_GLOB
@@ -10356,6 +10414,9 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
 endif()
 
 # MANYBODY_HEADERS at CMakeLists.txt:670 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
@@ -10406,6 +10467,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/angle_*.h")
 set(OLD_GLOB
@@ -10415,6 +10477,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/atom_vec_*.h")
 set(OLD_GLOB
@@ -10424,6 +10487,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/body_*.h")
 set(OLD_GLOB
@@ -10433,6 +10497,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/bond_*.h")
 set(OLD_GLOB
@@ -10442,6 +10507,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/compute_*.h")
 set(OLD_GLOB
@@ -10451,6 +10517,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/dihedral_*.h")
 set(OLD_GLOB
@@ -10460,6 +10527,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/dump_*.h")
 set(OLD_GLOB
@@ -10469,6 +10537,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_*.h")
 set(OLD_GLOB
@@ -10479,6 +10548,16 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/gran_sub_mod_*.h")
+set(OLD_GLOB
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
+endif()
+
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/improper_*.h")
 set(OLD_GLOB
@@ -10488,6 +10567,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/min_*.h")
 set(OLD_GLOB
@@ -10497,6 +10577,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/nbin_*.h")
 set(OLD_GLOB
@@ -10506,6 +10587,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/npair_*.h")
 set(OLD_GLOB
@@ -10515,6 +10597,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/nstencil_*.h")
 set(OLD_GLOB
@@ -10524,6 +10607,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/ntopo_*.h")
 set(OLD_GLOB
@@ -10533,6 +10617,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_*.h")
 set(OLD_GLOB
@@ -10580,6 +10665,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/reader_*.h")
 set(OLD_GLOB
@@ -10589,6 +10675,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/region_*.h")
 set(OLD_GLOB
@@ -13537,6 +13624,9 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
 endif()
 
 # MOLECULE_HEADERS at CMakeLists.txt:670 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
@@ -13582,6 +13672,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_*.h")
 set(OLD_GLOB
@@ -13596,6 +13687,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_*.h")
 set(OLD_GLOB
@@ -13610,6 +13702,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/body_*.h")
 set(OLD_GLOB
@@ -13619,6 +13712,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_*.h")
 set(OLD_GLOB
@@ -13635,6 +13729,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/compute_*.h")
 set(OLD_GLOB
@@ -13644,6 +13739,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_*.h")
 set(OLD_GLOB
@@ -13659,6 +13755,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dump_*.h")
 set(OLD_GLOB
@@ -13668,6 +13765,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_*.h")
 set(OLD_GLOB
@@ -13678,6 +13776,16 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/gran_sub_mod_*.h")
+set(OLD_GLOB
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
+endif()
+
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_*.h")
 set(OLD_GLOB
@@ -13690,6 +13798,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/min_*.h")
 set(OLD_GLOB
@@ -13699,6 +13808,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/nbin_*.h")
 set(OLD_GLOB
@@ -13708,6 +13818,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/npair_*.h")
 set(OLD_GLOB
@@ -13717,6 +13828,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/nstencil_*.h")
 set(OLD_GLOB
@@ -13726,6 +13838,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/ntopo_*.h")
 set(OLD_GLOB
@@ -13735,6 +13848,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_*.h")
 set(OLD_GLOB
@@ -13751,6 +13865,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/reader_*.h")
 set(OLD_GLOB
@@ -13760,6 +13875,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/region_*.h")
 set(OLD_GLOB
@@ -18127,6 +18243,9 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
 endif()
 
 # RIGID_HEADERS at CMakeLists.txt:670 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
@@ -18157,6 +18276,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/angle_*.h")
 set(OLD_GLOB
@@ -18166,6 +18286,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/atom_vec_*.h")
 set(OLD_GLOB
@@ -18175,6 +18296,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/body_*.h")
 set(OLD_GLOB
@@ -18184,6 +18306,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/bond_*.h")
 set(OLD_GLOB
@@ -18193,6 +18316,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_*.h")
 set(OLD_GLOB
@@ -18205,6 +18329,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/dihedral_*.h")
 set(OLD_GLOB
@@ -18214,6 +18339,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/dump_*.h")
 set(OLD_GLOB
@@ -18223,6 +18349,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_*.h")
 set(OLD_GLOB
@@ -18247,6 +18374,16 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/gran_sub_mod_*.h")
+set(OLD_GLOB
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
+endif()
+
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/improper_*.h")
 set(OLD_GLOB
@@ -18256,6 +18393,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/min_*.h")
 set(OLD_GLOB
@@ -18265,6 +18403,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/nbin_*.h")
 set(OLD_GLOB
@@ -18274,6 +18413,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/npair_*.h")
 set(OLD_GLOB
@@ -18283,6 +18423,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/nstencil_*.h")
 set(OLD_GLOB
@@ -18292,6 +18433,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/ntopo_*.h")
 set(OLD_GLOB
@@ -18301,6 +18443,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/pair_*.h")
 set(OLD_GLOB
@@ -18310,6 +18453,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/reader_*.h")
 set(OLD_GLOB
@@ -18319,6 +18463,7 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/cmake.verify_globs")
 endif()
 
+# files at Modules/StyleHeaderUtils.cmake:2 (file)
 # files at Modules/StyleHeaderUtils.cmake:190 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/region_*.h")
 set(OLD_GLOB

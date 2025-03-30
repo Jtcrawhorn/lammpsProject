@@ -1,0 +1,13 @@
+clear
+units si
+dimension 3
+atom_style body nparticle 1 500   # Define the atom style as body with nparticle types
+boundary p p p                   # Periodic boundary conditions
+lattice sc 4.0
+region box block 0 40 0 40 0 40
+create_box 1 box
+create_atoms 1 random 10000 12345 NULL
+pair_style lj/cut 2.5  # 2.5 is the cutoff distance in reduced units
+pair_coeff * * 1.0 1.0  # Set epsilon (depth of the potential well) and sigma (distance at which the potential is 0)
+fix 1 all nve
+run 10000

@@ -2,8 +2,7 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/library.cpp \
  /usr/include/stdc-predef.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/library.h \
- /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.h \
- /usr/include/c++/8/stdlib.h /usr/include/c++/8/cstdlib \
+ /shared/common/mpich-4.2.0/include/mpi.h /usr/include/c++/8/cstdint \
  /usr/include/c++/8/x86_64-redhat-linux/bits/c++config.h \
  /usr/include/bits/wordsize.h \
  /usr/include/c++/8/x86_64-redhat-linux/bits/os_defines.h \
@@ -11,28 +10,14 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /usr/include/bits/long-double.h /usr/include/gnu/stubs.h \
  /usr/include/gnu/stubs-64.h \
  /usr/include/c++/8/x86_64-redhat-linux/bits/cpu_defines.h \
- /usr/include/stdlib.h /usr/include/bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-redhat-linux/8/include/stddef.h \
- /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
- /usr/include/bits/floatn.h /usr/include/bits/floatn-common.h \
- /usr/include/bits/types/locale_t.h /usr/include/bits/types/__locale_t.h \
- /usr/include/sys/types.h /usr/include/bits/types.h \
- /usr/include/bits/typesizes.h /usr/include/bits/types/clock_t.h \
- /usr/include/bits/types/clockid_t.h /usr/include/bits/types/time_t.h \
- /usr/include/bits/types/timer_t.h /usr/include/bits/stdint-intn.h \
- /usr/include/endian.h /usr/include/bits/endian.h \
- /usr/include/bits/byteswap.h /usr/include/bits/uintn-identity.h \
- /usr/include/sys/select.h /usr/include/bits/select.h \
- /usr/include/bits/types/sigset_t.h /usr/include/bits/types/__sigset_t.h \
- /usr/include/bits/types/struct_timeval.h \
- /usr/include/bits/types/struct_timespec.h \
- /usr/include/bits/pthreadtypes.h /usr/include/bits/thread-shared-types.h \
- /usr/include/bits/pthreadtypes-arch.h /usr/include/alloca.h \
- /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
- /usr/include/c++/8/bits/std_abs.h \
  /usr/lib/gcc/x86_64-redhat-linux/8/include/stdint.h \
- /usr/include/stdint.h /usr/include/bits/wchar.h \
- /usr/include/bits/stdint-uintn.h /usr/include/c++/8/algorithm \
+ /usr/include/stdint.h /usr/include/bits/libc-header-start.h \
+ /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+ /usr/include/bits/wchar.h /usr/include/bits/stdint-intn.h \
+ /usr/include/bits/stdint-uintn.h \
+ /shared/common/mpich-4.2.0/include/mpi_proto.h \
+ /shared/common/mpich-4.2.0/include/mpio.h \
+ /shared/common/mpich-4.2.0/include/mpi.h /usr/include/c++/8/algorithm \
  /usr/include/c++/8/utility /usr/include/c++/8/bits/stl_relops.h \
  /usr/include/c++/8/bits/stl_pair.h /usr/include/c++/8/bits/move.h \
  /usr/include/c++/8/bits/concept_check.h /usr/include/c++/8/type_traits \
@@ -49,8 +34,25 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /usr/include/c++/8/bits/stl_iterator.h \
  /usr/include/c++/8/bits/ptr_traits.h /usr/include/c++/8/debug/debug.h \
  /usr/include/c++/8/bits/predefined_ops.h \
- /usr/include/c++/8/bits/stl_algo.h \
- /usr/include/c++/8/bits/algorithmfwd.h \
+ /usr/include/c++/8/bits/stl_algo.h /usr/include/c++/8/cstdlib \
+ /usr/include/stdlib.h \
+ /usr/lib/gcc/x86_64-redhat-linux/8/include/stddef.h \
+ /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+ /usr/include/bits/floatn.h /usr/include/bits/floatn-common.h \
+ /usr/include/bits/types/locale_t.h /usr/include/bits/types/__locale_t.h \
+ /usr/include/sys/types.h /usr/include/bits/types/clock_t.h \
+ /usr/include/bits/types/clockid_t.h /usr/include/bits/types/time_t.h \
+ /usr/include/bits/types/timer_t.h /usr/include/endian.h \
+ /usr/include/bits/endian.h /usr/include/bits/byteswap.h \
+ /usr/include/bits/uintn-identity.h /usr/include/sys/select.h \
+ /usr/include/bits/select.h /usr/include/bits/types/sigset_t.h \
+ /usr/include/bits/types/__sigset_t.h \
+ /usr/include/bits/types/struct_timeval.h \
+ /usr/include/bits/types/struct_timespec.h \
+ /usr/include/bits/pthreadtypes.h /usr/include/bits/thread-shared-types.h \
+ /usr/include/bits/pthreadtypes-arch.h /usr/include/alloca.h \
+ /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
+ /usr/include/c++/8/bits/std_abs.h /usr/include/c++/8/bits/algorithmfwd.h \
  /usr/include/c++/8/bits/stl_heap.h /usr/include/c++/8/bits/stl_tempbuf.h \
  /usr/include/c++/8/bits/stl_construct.h /usr/include/c++/8/new \
  /usr/include/c++/8/exception /usr/include/c++/8/bits/exception.h \
@@ -66,8 +68,8 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/atom.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/pointers.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/lmptype.h \
- /usr/include/c++/8/cinttypes /usr/include/c++/8/cstdint \
- /usr/include/inttypes.h /usr/include/c++/8/climits \
+ /usr/include/c++/8/cinttypes /usr/include/inttypes.h \
+ /usr/include/c++/8/climits \
  /usr/lib/gcc/x86_64-redhat-linux/8/include/limits.h \
  /usr/lib/gcc/x86_64-redhat-linux/8/include/syslimits.h \
  /usr/include/limits.h /usr/include/bits/posix1_lim.h \

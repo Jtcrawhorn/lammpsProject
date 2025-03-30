@@ -164,9 +164,10 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /usr/include/bits/uio_lim.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/lmptype.h \
  /usr/include/c++/8/cinttypes /usr/include/inttypes.h \
- /usr/include/c++/8/climits \
- /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.h \
- /usr/include/c++/8/stdlib.h /usr/include/c++/8/vector \
+ /usr/include/c++/8/climits /shared/common/mpich-4.2.0/include/mpi.h \
+ /shared/common/mpich-4.2.0/include/mpi_proto.h \
+ /shared/common/mpich-4.2.0/include/mpio.h \
+ /shared/common/mpich-4.2.0/include/mpi.h /usr/include/c++/8/vector \
  /usr/include/c++/8/bits/stl_vector.h \
  /usr/include/c++/8/bits/stl_bvector.h /usr/include/c++/8/bits/vector.tcc \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/arg_info.h \

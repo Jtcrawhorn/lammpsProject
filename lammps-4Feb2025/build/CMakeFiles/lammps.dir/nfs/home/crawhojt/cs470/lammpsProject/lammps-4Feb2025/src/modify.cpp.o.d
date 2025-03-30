@@ -42,8 +42,10 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /usr/include/bits/pthreadtypes-arch.h /usr/include/alloca.h \
  /usr/include/bits/stdlib-bsearch.h /usr/include/bits/stdlib-float.h \
  /usr/include/c++/8/bits/std_abs.h \
- /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.h \
- /usr/include/c++/8/stdlib.h /usr/include/c++/8/cstddef \
+ /shared/common/mpich-4.2.0/include/mpi.h \
+ /shared/common/mpich-4.2.0/include/mpi_proto.h \
+ /shared/common/mpich-4.2.0/include/mpio.h \
+ /shared/common/mpich-4.2.0/include/mpi.h /usr/include/c++/8/cstddef \
  /usr/include/c++/8/cstdio /usr/include/stdio.h \
  /usr/lib/gcc/x86_64-redhat-linux/8/include/stdarg.h \
  /usr/include/bits/types/__fpos_t.h /usr/include/bits/types/__mbstate_t.h \
@@ -185,6 +187,8 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_angle_local.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_angmom_chunk.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_chunk.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_bond.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_bond_local.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_centro_atom.h \
@@ -203,6 +207,7 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_dipole.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_dipole_chunk.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_displace_atom.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_erotate_sphere.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_erotate_sphere_atom.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_fragment_atom.h \
@@ -216,6 +221,7 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_inertia_chunk.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_ke.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_ke_atom.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_msd.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_msd_chunk.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_omega_chunk.h \
@@ -234,9 +240,11 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_reduce_chunk.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_reduce_region.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_reduce.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_slice.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_stress_atom.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_temp.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_temp_chunk.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_temp_com.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/compute_temp_deform.h \
@@ -264,12 +272,15 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_balance.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_bond_history.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_box_relax.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_deform.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_deposit.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_deprecated.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_dt_reset.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_dummy.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_efield.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_enforce2d.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_evaporate.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_external.h \
@@ -286,16 +297,22 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_neigh_history.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nph.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nh.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nh.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nph_sphere.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nh_sphere.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_npt.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_npt_sphere.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nve.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nve_limit.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nve_noforce.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nve_sphere.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nve.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nvt.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nvt_sllod.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_nvt_sphere.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_pair.h \
@@ -304,11 +321,29 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_press_langevin.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_print.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_property_atom.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_read_restart.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_recenter.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_respa.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_restrain.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_setforce.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_spring.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_spring_chunk.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_spring_self.h \
@@ -320,8 +355,11 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_temp_berendsen.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_temp_rescale.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_thermal_conductivity.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_vector.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_viscous.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.h \
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_wall_harmonic.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_wall.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix_wall_lj1043.h \

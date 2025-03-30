@@ -5095,19 +5095,1993 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp.s
 
-CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o: CMakeFiles/lammps.dir/flags.make
-CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp
-CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_360) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp
 
-CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.i
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.i
 
-CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.s
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_361) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_362) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_363) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_364) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_365) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_366) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_367) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_368) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_369) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_370) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_371) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_372) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_373) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_374) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_375) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_376) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_377) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_378) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_379) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_380) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_381) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_382) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_383) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_384) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_385) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_386) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_387) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_388) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_389) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_390) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_391) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_392) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_393) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_394) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_395) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_396) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_397) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_398) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_399) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_400) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_401) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_402) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_403) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_404) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_405) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_406) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_407) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_408) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_409) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_410) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_411) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_412) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_413) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_414) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_415) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_416) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_417) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_418) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_419) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_420) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_421) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_422) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_423) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_424) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_425) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_426) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_427) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_428) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_429) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_430) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_431) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_432) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_433) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_434) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_435) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_436) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_437) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_438) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_439) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_440) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_441) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_442) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_443) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_444) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_445) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_446) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_447) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_448) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_449) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_450) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_451) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_452) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_453) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_454) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_455) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_456) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_457) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_458) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_459) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_460) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_461) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_462) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_463) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_464) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_465) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_466) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_467) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_468) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_469) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_470) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_471) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_472) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_473) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_474) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_475) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_476) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_477) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_478) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_479) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_480) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_481) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_482) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_483) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_484) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_485) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_486) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_487) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_488) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_489) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_490) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_491) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_492) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_493) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_494) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_495) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_496) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_497) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_498) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_499) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_500) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.s
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o: CMakeFiles/lammps.dir/flags.make
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o: CMakeFiles/lammps.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_501) "Building CXX object CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o -MF CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o.d -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp > CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.i
+
+CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp -o CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.s
 
 # Object files for target lammps
 lammps_OBJECTS = \
@@ -5470,7 +7444,148 @@ lammps_OBJECTS = \
 "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_data.cpp.o" \
 "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_dump.cpp.o" \
 "CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp.o" \
-"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o"
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o" \
+"CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o"
 
 # External object files for target lammps
 lammps_EXTERNAL_OBJECTS =
@@ -5834,10 +7949,151 @@ liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-
 liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_data.cpp.o
 liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_dump.cpp.o
 liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/write_restart.cpp.o
-liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/STUBS/mpi.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_nparticle.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polygon.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/body_rounded_polyhedron.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_body_local.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/compute_temp_body.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nh_body.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nph_body.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_npt_body.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nve_body.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_nvt_body.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polygon.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/fix_wall_body_polyhedron.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_nparticle.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polygon.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/BODY/pair_body_rounded_polyhedron.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_dipole_spin.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/ewald_disp.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fft3d_wrap.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/fix_tune_kspace.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/msm_cg.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_born_coul_msm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_coul_msm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_buck_long_coul_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_msm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_coul_streitz.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmm_coul_msm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_charmmfsw_coul_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_coul_msm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_cut_tip4p_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_coul_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_lj_long_tip4p_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pair_tip4p_long.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_cg.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_dipole_spin.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_disp_tip4p.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_stagger.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/pppm_tip4p.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/KSPACE/remap_wrap.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/fix_qeq_comb.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_adp.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_airebo_morse.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_atm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_bop.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_comb3.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_alloy.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_cd.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_fs.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eam_he.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_edip_multi.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_eim.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_extep.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_gw_zbl.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_lcbop.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_local_density.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_spline.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_meam_sw_spline.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_harmonic.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_nb3b_screened.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_polymorphic.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebo.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_rebomos.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_angle_table.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_sw_mod.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_mod_c.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_table.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_tersoff_zbl.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_threebody_table.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MANYBODY/pair_vashishta_table.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_charmm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_cosine_squared.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_harmonic.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/angle_table.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_angle.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_bond.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_full.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_molecular.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/atom_vec_template.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_fene_expand.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_gromos.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_harmonic.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_morse.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_quartic.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/bond_table.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_charmmfsw.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_harmonic.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_multi_harmonic.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_opls.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/dihedral_table.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/fix_cmap.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_cvff.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_harmonic.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/improper_umbrella.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_lj.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_hbond_dreiding_morse.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmm_coul_charmm_implicit.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_charmmfsw_coul_charmmfsh.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_lj_cut_tip4p_cut.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/MOLECULE/pair_tip4p_cut.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_erotate_rigid.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_ke_rigid.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/compute_rigid_local.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_ehex.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rattle.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nh_small.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nph_small.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_npt_small.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nve_small.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_nvt_small.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_rigid_small.cpp.o
+liblammps.a: CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/RIGID/fix_shake.cpp.o
 liblammps.a: CMakeFiles/lammps.dir/build.make
 liblammps.a: CMakeFiles/lammps.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_361) "Linking CXX static library liblammps.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_502) "Linking CXX static library liblammps.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/lammps.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lammps.dir/link.txt --verbose=$(VERBOSE)
 
