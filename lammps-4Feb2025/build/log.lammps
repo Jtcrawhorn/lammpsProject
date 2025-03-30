@@ -6,62 +6,62 @@ OMP_NUM_THREADS environment is not set. Defaulting to 1 thread. (src/comm.cpp:99
   using 1 OpenMP thread(s) per MPI task
 units si
 dimension 3
-atom_style body nparticle 1 500   # Define the atom style as body with nparticle types
-boundary p p p                   # Periodic boundary conditions
+atom_style body nparticle 1 500  # Define the atom style as body with nparticle types
+boundary p p p  # Periodic boundary conditions
 lattice sc 4.0
 Lattice spacing in x,y,z = 4 4 4
-region box block 0 40 0 40 0 40
+region box block 0 100 0 100 0 100  # Increase the size of the box
 create_box 1 box
-Created orthogonal box = (0 0 0) to (160 160 160)
+Created orthogonal box = (0 0 0) to (400 400 400)
   1 by 1 by 1 MPI processor grid
-create_atoms 1 random 10000 12345 NULL
-Created 10000 atoms
-  using lattice units in orthogonal box = (0 0 0) to (160 160 160)
-  create_atoms CPU = 0.001 seconds
-pair_style lj/cut 2.5  # 2.5 is the cutoff distance in reduced units
-pair_coeff * * 1.0 1.0  # Set epsilon (depth of the potential well) and sigma (distance at which the potential is 0)
-fix 1 all nve
+create_atoms 1 random 100000 12345 NULL  # Create 100,000 atoms
+Created 100000 atoms
+  using lattice units in orthogonal box = (0 0 0) to (400 400 400)
+  create_atoms CPU = 0.012 seconds
+pair_style body/nparticle 2.5  # Use body/nparticle pair style
+pair_coeff * * 1.0 1.0  # Set pair coefficients
 run 10000
+WARNING: No fixes with time integration, atoms won't move (src/verlet.cpp:60)
 Generated 0 of 0 mixed pair_coeff terms from geometric mixing rule
 Neighbor list info ...
   update: every = 1 steps, delay = 0 steps, check = yes
   max neighbors/atom: 2000, page size: 100000
   master list distance cutoff = 2.501
   ghost atom cutoff = 2.501
-  binsize = 1.2505, bins = 128 128 128
+  binsize = 1.2505, bins = 320 320 320
   1 neighbor lists, perpetual/occasional/extra = 1 0 0
-  (1) pair lj/cut, perpetual
+  (1) pair body/nparticle, perpetual
       attributes: half, newton on
       pair build: half/bin/atomonly/newton
       stencil: half/bin/3d
       bin: standard
-Per MPI rank memory allocation (min/avg/max) = 19.3 | 19.3 | 19.3 Mbytes
+Per MPI rank memory allocation (min/avg/max) = 181.8 | 181.8 | 181.8 Mbytes
    Step          Temp          E_pair         E_mol          TotEng         Press     
-         0   0              56496307       0              56496307       55.184222    
-     10000   2.71429e+26    289598.97      0              56496262       9.4330501    
-Loop time of 4.50034 on 1 procs for 10000 steps with 10000 atoms
+         0   0              6.3571706e+09  0              6.3571706e+09  397.33532    
+     10000   0              6.3571706e+09  0              6.3571706e+09  397.33532    
+Loop time of 12.1512 on 1 procs for 10000 steps with 100000 atoms
 
-99.7% CPU use with 1 MPI tasks x 1 OpenMP threads
+99.3% CPU use with 1 MPI tasks x 1 OpenMP threads
 
 MPI task timing breakdown:
 Section |  min time  |  avg time  |  max time  |%varavg| %total
 ---------------------------------------------------------------
-Pair    | 0.42289    | 0.42289    | 0.42289    |   0.0 |  9.40
-Neigh   | 2.8265     | 2.8265     | 2.8265     |   0.0 | 62.81
-Comm    | 0.29469    | 0.29469    | 0.29469    |   0.0 |  6.55
-Output  | 8.5811e-05 | 8.5811e-05 | 8.5811e-05 |   0.0 |  0.00
-Modify  | 0.65547    | 0.65547    | 0.65547    |   0.0 | 14.56
-Other   |            | 0.3007     |            |       |  6.68
+Pair    | 7.4728     | 7.4728     | 7.4728     |   0.0 | 61.50
+Neigh   | 0          | 0          | 0          |   0.0 |  0.00
+Comm    | 0.98388    | 0.98388    | 0.98388    |   0.0 |  8.10
+Output  | 0.0015511  | 0.0015511  | 0.0015511  |   0.0 |  0.01
+Modify  | 0.0034429  | 0.0034429  | 0.0034429  |   0.0 |  0.03
+Other   |            | 3.69       |            |       | 30.36
 
-Nlocal:          10000 ave       10000 max       10000 min
+Nlocal:         100000 ave      100000 max      100000 min
 Histogram: 1 0 0 0 0 0 0 0 0 0
-Nghost:            956 ave         956 max         956 min
+Nghost:           3801 ave        3801 max        3801 min
 Histogram: 1 0 0 0 0 0 0 0 0 0
-Neighs:            783 ave         783 max         783 min
+Neighs:           4989 ave        4989 max        4989 min
 Histogram: 1 0 0 0 0 0 0 0 0 0
 
-Total # of neighbors = 783
-Ave neighs/atom = 0.0783
-Neighbor list builds = 1227
+Total # of neighbors = 4989
+Ave neighs/atom = 0.04989
+Neighbor list builds = 0
 Dangerous builds = 0
-Total wall time: 0:00:04
+Total wall time: 0:00:12
