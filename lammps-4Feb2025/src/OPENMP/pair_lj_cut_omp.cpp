@@ -40,6 +40,7 @@ void PairLJCutOMP::compute(int eflag, int vflag)
 {
   ev_init(eflag,vflag);
 
+  printf("\n\n\nin here\n\n\n");
   const int nall = atom->nlocal + atom->nghost;
   const int nthreads = comm->nthreads;
   const int inum = list->inum;

@@ -134,6 +134,7 @@ void PairLJCut::compute(int eflag, int vflag)
       }
     }
   }
+  MPI_Allreduce(MPI_IN_PLACE, f, atom->nlocal, MPI_DOUBLE, MPI_SUM, MPI_COMM_WORLD);
 
   if (vflag_fdotr) virial_fdotr_compute();
 }
