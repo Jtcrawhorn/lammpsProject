@@ -36,6 +36,7 @@
 #include "modify.h"
 #include "neigh_list.h"
 #include "neighbor.h"
+#include <omp.h>
 
 #include <cmath>
 #include <cstring>
@@ -167,11 +168,13 @@ void PairBodyRoundedPolyhedron::compute(int eflag, int vflag)
   }
 
   ndiscrete = nedge = nface = 0;
+  # pragma omp parallel for
   for (i = 0; i < nall; i++)
     dnum[i] = ednum[i] = facnum[i] = 0;
 
   // loop over neighbors of my atoms
 
+  # pragma omp parallel for default(none) private(i, ii, xtmp, ytmp, ztmp, itype, jlit, jnum, j, jj, delx, dely, delz, rsq, jype)
   for (ii = 0; ii < inum; ii++) {
     i = ilist[ii];
     xtmp = x[i][0];
@@ -310,7 +313,7 @@ void PairBodyRoundedPolyhedron::compute(int eflag, int vflag)
                                facc[0],facc[1],facc[2],delx,dely,delz);
 
     } // end for jj
-  }
+  } // end for ii
 
   if (vflag_fdotr) virial_fdotr_compute();
 }

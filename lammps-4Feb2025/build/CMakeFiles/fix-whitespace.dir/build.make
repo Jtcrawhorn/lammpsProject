@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake
+CMAKE_SOURCE_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build
+CMAKE_BINARY_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build
 
 # Utility rule file for fix-whitespace.
 
@@ -67,8 +67,8 @@ include CMakeFiles/fix-whitespace.dir/compiler_depend.make
 include CMakeFiles/fix-whitespace.dir/progress.make
 
 CMakeFiles/fix-whitespace:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Fix whitespace errors"
-	cd /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025 && /usr/bin/python3.12 /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/tools/coding_standard/whitespace.py -f .
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Fix whitespace errors"
+	cd /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025 && /usr/bin/python3.12 /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/tools/coding_standard/whitespace.py -f .
 
 fix-whitespace: CMakeFiles/fix-whitespace
 fix-whitespace: CMakeFiles/fix-whitespace.dir/build.make
@@ -83,6 +83,6 @@ CMakeFiles/fix-whitespace.dir/clean:
 .PHONY : CMakeFiles/fix-whitespace.dir/clean
 
 CMakeFiles/fix-whitespace.dir/depend:
-	cd /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/fix-whitespace.dir/DependInfo.cmake --color=$(COLOR)
+	cd /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/fix-whitespace.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/fix-whitespace.dir/depend
 

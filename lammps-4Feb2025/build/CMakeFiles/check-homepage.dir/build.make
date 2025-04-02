@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake
+CMAKE_SOURCE_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build
+CMAKE_BINARY_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build
 
 # Utility rule file for check-homepage.
 
@@ -67,8 +67,8 @@ include CMakeFiles/check-homepage.dir/compiler_depend.make
 include CMakeFiles/check-homepage.dir/progress.make
 
 CMakeFiles/check-homepage:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Check for homepage URL errors"
-	cd /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025 && /usr/bin/python3.12 /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/tools/coding_standard/homepage.py .
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Check for homepage URL errors"
+	cd /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025 && /usr/bin/python3.12 /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/tools/coding_standard/homepage.py .
 
 check-homepage: CMakeFiles/check-homepage
 check-homepage: CMakeFiles/check-homepage.dir/build.make
@@ -83,6 +83,6 @@ CMakeFiles/check-homepage.dir/clean:
 .PHONY : CMakeFiles/check-homepage.dir/clean
 
 CMakeFiles/check-homepage.dir/depend:
-	cd /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/check-homepage.dir/DependInfo.cmake --color=$(COLOR)
+	cd /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/check-homepage.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/check-homepage.dir/depend
 
