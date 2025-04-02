@@ -2391,4 +2391,3 @@ void PairBodyRoundedPolyhedron::sanity_check()
     h_a[0], h_a[1], h_a[2], h_b[0], h_b[1], h_b[2], t_a, t_b, d_a);
 */
 }
-
