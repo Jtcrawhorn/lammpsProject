@@ -1,0 +1,16 @@
+units        lj
+dimension    2
+atom_style   body rounded/polygon 50 1000  
+boundary     p p p
+newton       on
+
+region       box block 0 100 0 100 -0.5 0.5
+create_box   1 box
+create_atoms 1 random 250000 12345 box 
+
+pair_style   body/rounded/polygon 20.0 5.0 0.5 1.0 0.5
+pair_coeff   1 1 100.0 1.0
+
+comm_modify vel yes
+
+run          10000
