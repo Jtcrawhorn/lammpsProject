@@ -34,6 +34,8 @@
 #include "neigh_list.h"
 #include "neighbor.h"
 
+#include <omp.h>
+
 #include <cmath>
 #include <cstring>
 
@@ -155,6 +157,7 @@ void PairBodyRoundedPolygon::compute(int eflag, int vflag)
     dnum[i] = ednum[i] = 0;
 
   // loop over neighbors of my atoms
+  #pragma omp parallel for default(none) private(ii, i, xtmp, ytmp, ztmp, itype, radi, jlist, jnum, j, jj, delx, dely, delz, rsq, jtype, radj, facc, k_nij, k_naij, inum) shared(ilist, x, type, radius, firstneigh, numneigh, body, npi, ifirst, nei, iefirst, npj, jfirst, nej, jefirst, r, f, v, ni, nj, tag, torque, angmom, newton_pair, nlocal) reduction(+:evdwl)
 
   for (ii = 0; ii < inum; ii++) {
     i = ilist[ii];
