@@ -7,7 +7,7 @@ atom_modify sort 1000 2.0
 
 region      box block 0 100 0 100 0 100
 create_box  1 box
-create_atoms 1 random 250000 12345 box
+create_atoms 1 random 100000 12345 box
 
 pair_style body/rounded/polyhedron 20.0 5.0 0.0 1.0 0.5
 pair_coeff * * 100.0 1.0

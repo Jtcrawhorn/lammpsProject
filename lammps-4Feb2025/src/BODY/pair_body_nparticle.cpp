@@ -26,6 +26,7 @@
 
 #include <cmath>
 #include <cstring>
+#include <omp.h>
 
 using namespace LAMMPS_NS;
 
@@ -109,6 +110,232 @@ void PairBodyNparticle::compute(int eflag, int vflag)
 
   // loop over neighbors of my atoms
 
+  // CS470 improvements
+  int num_threads = omp_get_max_threads();
+  // Cannot use an ifdef here because lammps diverts to at least 1 thread which makes an ifdef not work here. 
+  if (num_threads > 1) {
+    #pragma omp parallel for default(none) private(fj, ti, fi, tj, xi, xj, r2inv, r6inv, forcelj, fpair, rsq, ni, nj, npi, npj, ifirst, jfirst, xtmp, ytmp, ztmp, delx, dely, delz, evdwl, i, j, ii, jj, inum, jnum, itype, jtype) shared(dxi, dxj, ilist, jlist, x, firstneigh, numneigh, body, f, torque, type, nlocal, newton_pair, eflag) 
+    for (ii = 0; ii < inum; ii++) {
+      i = ilist[ii];
+      xtmp = x[i][0];
+      ytmp = x[i][1];
+      ztmp = x[i][2];
+      itype = type[i];
+      jlist = firstneigh[i];
+      jnum = numneigh[i];
+  
+      for (jj = 0; jj < jnum; jj++) {
+        j = jlist[jj];
+        j &= NEIGHMASK;
+  
+        delx = xtmp - x[j][0];
+        dely = ytmp - x[j][1];
+        delz = ztmp - x[j][2];
+        rsq = delx*delx + dely*dely + delz*delz;
+        jtype = type[j];
+  
+        if (rsq >= cutsq[itype][jtype]) continue;
+  
+        // body/body interactions = NxM sub-particles
+  
+        evdwl = 0.0;
+        if (body[i] >= 0 && body[j] >= 0) {
+          if (dnum[i] == 0) body2space(i);
+          npi = dnum[i];
+          ifirst = dfirst[i];
+          if (dnum[j] == 0) body2space(j);
+          npj = dnum[j];
+          jfirst = dfirst[j];
+  
+          for (ni = 0; ni < npi; ni++) {
+            dxi = discrete[ifirst+ni];
+  
+            for (nj = 0; nj < npj; nj++) {
+              dxj = discrete[jfirst+nj];
+  
+              xi[0] = x[i][0] + dxi[0];
+              xi[1] = x[i][1] + dxi[1];
+              xi[2] = x[i][2] + dxi[2];
+              xj[0] = x[j][0] + dxj[0];
+              xj[1] = x[j][1] + dxj[1];
+              xj[2] = x[j][2] + dxj[2];
+  
+              delx = xi[0] - xj[0];
+              dely = xi[1] - xj[1];
+              delz = xi[2] - xj[2];
+              rsq = delx*delx + dely*dely + delz*delz;
+  
+              r2inv = 1.0/rsq;
+              r6inv = r2inv*r2inv*r2inv;
+              forcelj = r6inv * (lj1[itype][jtype]*r6inv - lj2[itype][jtype]);
+              fpair = forcelj*r2inv;
+  
+              if (eflag)
+                evdwl += r6inv*(lj3[itype][jtype]*r6inv-lj4[itype][jtype]);
+  
+              fi[0] = delx*fpair;
+              fi[1] = dely*fpair;
+              fi[2] = delz*fpair;
+              f[i][0] += fi[0];
+              f[i][1] += fi[1];
+              f[i][2] += fi[2];
+              ti[0] = dxi[1]*fi[2] - dxi[2]*fi[1];
+              ti[1] = dxi[2]*fi[0] - dxi[0]*fi[2];
+              ti[2] = dxi[0]*fi[1] - dxi[1]*fi[0];
+              torque[i][0] += ti[0];
+              torque[i][1] += ti[1];
+              torque[i][2] += ti[2];
+  
+              if (newton_pair || j < nlocal) {
+                fj[0] = -delx*fpair;
+                fj[1] = -dely*fpair;
+                fj[2] = -delz*fpair;
+                f[j][0] += fj[0];
+                f[j][1] += fj[1];
+                f[j][2] += fj[2];
+                tj[0] = dxj[1]*fj[2] - dxj[2]*fj[1];
+                tj[1] = dxj[2]*fj[0] - dxj[0]*fj[2];
+                tj[2] = dxj[0]*fj[1] - dxj[1]*fj[0];
+                torque[j][0] += tj[0];
+                torque[j][1] += tj[1];
+                torque[j][2] += tj[2];
+              }
+            }
+          }
+  
+        // body/particle interaction = Nx1 sub-particles
+  
+        } else if (body[i] >= 0) {
+          if (dnum[i] == 0) body2space(i);
+          npi = dnum[i];
+          ifirst = dfirst[i];
+  
+          for (ni = 0; ni < npi; ni++) {
+            dxi = discrete[ifirst+ni];
+  
+            xi[0] = x[i][0] + dxi[0];
+            xi[1] = x[i][1] + dxi[1];
+            xi[2] = x[i][2] + dxi[2];
+            xj[0] = x[j][0];
+            xj[1] = x[j][1];
+            xj[2] = x[j][2];
+  
+            delx = xi[0] - xj[0];
+            dely = xi[1] - xj[1];
+            delz = xi[2] - xj[2];
+            rsq = delx*delx + dely*dely + delz*delz;
+  
+            r2inv = 1.0/rsq;
+            r6inv = r2inv*r2inv*r2inv;
+            forcelj = r6inv * (lj1[itype][jtype]*r6inv - lj2[itype][jtype]);
+            fpair = forcelj*r2inv;
+  
+            if (eflag)
+              evdwl += r6inv*(lj3[itype][jtype]*r6inv-lj4[itype][jtype]);
+  
+            fi[0] = delx*fpair;
+            fi[1] = dely*fpair;
+            fi[2] = delz*fpair;
+            f[i][0] += fi[0];
+            f[i][1] += fi[1];
+            f[i][2] += fi[2];
+            ti[0] = dxi[1]*fi[2] - dxi[2]*fi[1];
+            ti[1] = dxi[2]*fi[0] - dxi[0]*fi[2];
+            ti[2] = dxi[0]*fi[1] - dxi[1]*fi[0];
+            torque[i][0] += ti[0];
+            torque[i][1] += ti[1];
+            torque[i][2] += ti[2];
+  
+            if (newton_pair || j < nlocal) {
+              fj[0] = -delx*fpair;
+              fj[1] = -dely*fpair;
+              fj[2] = -delz*fpair;
+              f[j][0] += fj[0];
+              f[j][1] += fj[1];
+              f[j][2] += fj[2];
+            }
+          }
+  
+  
+        // particle/body interaction = Nx1 sub-particles
+  
+        } else if (body[j] >= 0) {
+          if (dnum[j] == 0) body2space(j);
+          npj = dnum[j];
+          jfirst = dfirst[j];
+  
+          for (nj = 0; nj < npj; nj++) {
+            dxj = discrete[jfirst+nj];
+  
+            xi[0] = x[i][0];
+            xi[1] = x[i][1];
+            xi[2] = x[i][2];
+            xj[0] = x[j][0] + dxj[0];
+            xj[1] = x[j][1] + dxj[1];
+            xj[2] = x[j][2] + dxj[2];
+  
+            delx = xi[0] - xj[0];
+            dely = xi[1] - xj[1];
+            delz = xi[2] - xj[2];
+            rsq = delx*delx + dely*dely + delz*delz;
+  
+            r2inv = 1.0/rsq;
+            r6inv = r2inv*r2inv*r2inv;
+            forcelj = r6inv * (lj1[itype][jtype]*r6inv - lj2[itype][jtype]);
+            fpair = forcelj*r2inv;
+  
+            if (eflag)
+              evdwl += r6inv*(lj3[itype][jtype]*r6inv-lj4[itype][jtype]);
+  
+            fi[0] = delx*fpair;
+            fi[1] = dely*fpair;
+            fi[2] = delz*fpair;
+            f[i][0] += fi[0];
+            f[i][1] += fi[1];
+            f[i][2] += fi[2];
+  
+            if (newton_pair || j < nlocal) {
+              fj[0] = -delx*fpair;
+              fj[1] = -dely*fpair;
+              fj[2] = -delz*fpair;
+              f[j][0] += fj[0];
+              f[j][1] += fj[1];
+              f[j][2] += fj[2];
+              tj[0] = dxj[1]*fj[2] - dxj[2]*fj[1];
+              tj[1] = dxj[2]*fj[0] - dxj[0]*fj[2];
+              tj[2] = dxj[0]*fj[1] - dxj[1]*fj[0];
+              torque[j][0] += tj[0];
+              torque[j][1] += tj[1];
+              torque[j][2] += tj[2];
+            }
+          }
+  
+        // particle/particle interaction = 1x1 particles
+  
+        } else {
+          r2inv = 1.0/rsq;
+          r6inv = r2inv*r2inv*r2inv;
+          forcelj = r6inv * (lj1[itype][jtype]*r6inv - lj2[itype][jtype]);
+          fpair = forcelj*r2inv;
+  
+          if (eflag)
+            evdwl += r6inv*(lj3[itype][jtype]*r6inv-lj4[itype][jtype]);
+  
+          f[i][0] += delx*fpair;
+          f[i][1] += dely*fpair;
+          f[i][2] += delz*fpair;
+          if (newton_pair || j < nlocal) {
+            f[j][0] -= delx*fpair;
+            f[j][1] -= dely*fpair;
+            f[j][2] -= delz*fpair;
+          }
+        }
+  
+        if (evflag) ev_tally(i,j,nlocal,newton_pair,evdwl,0.0,fpair,delx,dely,delz);
+      }
+    }
+   } else {
+  // End improvements
   for (ii = 0; ii < inum; ii++) {
     i = ilist[ii];
     xtmp = x[i][0];
@@ -328,6 +555,7 @@ void PairBodyNparticle::compute(int eflag, int vflag)
       if (evflag) ev_tally(i,j,nlocal,newton_pair,evdwl,0.0,fpair,delx,dely,delz);
     }
   }
+}
 
   if (vflag_fdotr) virial_fdotr_compute();
 }
