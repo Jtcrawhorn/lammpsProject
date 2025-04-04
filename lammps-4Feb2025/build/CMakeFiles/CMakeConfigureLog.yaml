@@ -690,3 +690,76 @@ events:
         
       exitCode: 0
 ...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1278 (try_compile)"
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
+      - "CMakeLists.txt:400 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode normal"
+    directories:
+      source: "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-xieUkO"
+      binary: "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-xieUkO"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_normal"
+      cached: true
+      stdout: |
+        Change Dir: /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-xieUkO
+        
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_2c6a1/fast && gmake[1]: Entering directory '/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-xieUkO'
+        /usr/bin/gmake  -f CMakeFiles/cmTC_2c6a1.dir/build.make CMakeFiles/cmTC_2c6a1.dir/build
+        gmake[2]: Entering directory '/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-xieUkO'
+        Building CXX object CMakeFiles/cmTC_2c6a1.dir/test_mpi.cpp.o
+        /usr/bin/c++ -DMPICH_SKIP_MPICXX -DOMPI_SKIP_MPICXX -D_MPICC_H -isystem /shared/common/mpich-4.2.0/include -std=c++17 -fPIE -o CMakeFiles/cmTC_2c6a1.dir/test_mpi.cpp.o -c /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-xieUkO/test_mpi.cpp
+        Linking CXX executable cmTC_2c6a1
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2c6a1.dir/link.txt --verbose=1
+        /usr/bin/c++ -Wl,-rpath -Wl,/shared/common/mpich-4.2.0/lib -Wl,--enable-new-dtags CMakeFiles/cmTC_2c6a1.dir/test_mpi.cpp.o -o cmTC_2c6a1  -Wl,-rpath,/shared/common/mpich-4.2.0/lib /shared/common/mpich-4.2.0/lib/libmpicxx.so /shared/common/mpich-4.2.0/lib/libmpi.so 
+        gmake[2]: Leaving directory '/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-xieUkO'
+        gmake[1]: Leaving directory '/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-xieUkO'
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1278 (try_compile)"
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1672 (_MPI_try_staged_settings)"
+      - "CMakeLists.txt:400 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode MPICXX"
+    directories:
+      source: "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-dL7B11"
+      binary: "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-dL7B11"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
+      cached: true
+      stdout: |
+        Change Dir: /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-dL7B11
+        
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_cbdf4/fast && gmake[1]: Entering directory '/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-dL7B11'
+        /usr/bin/gmake  -f CMakeFiles/cmTC_cbdf4.dir/build.make CMakeFiles/cmTC_cbdf4.dir/build
+        gmake[2]: Entering directory '/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-dL7B11'
+        Building CXX object CMakeFiles/cmTC_cbdf4.dir/test_mpi.cpp.o
+        /usr/bin/c++ -DMPICH_SKIP_MPICXX -DOMPI_SKIP_MPICXX -D_MPICC_H -isystem /shared/common/mpich-4.2.0/include -std=c++17 -fPIE -o CMakeFiles/cmTC_cbdf4.dir/test_mpi.cpp.o -c /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-dL7B11/test_mpi.cpp
+        Linking CXX executable cmTC_cbdf4
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cbdf4.dir/link.txt --verbose=1
+        /usr/bin/c++ -Wl,-rpath -Wl,/shared/common/mpich-4.2.0/lib -Wl,--enable-new-dtags CMakeFiles/cmTC_cbdf4.dir/test_mpi.cpp.o -o cmTC_cbdf4  -Wl,-rpath,/shared/common/mpich-4.2.0/lib /shared/common/mpich-4.2.0/lib/libmpicxx.so /shared/common/mpich-4.2.0/lib/libmpi.so 
+        gmake[2]: Leaving directory '/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-dL7B11'
+        gmake[1]: Leaving directory '/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-dL7B11'
+        
+      exitCode: 0
+...

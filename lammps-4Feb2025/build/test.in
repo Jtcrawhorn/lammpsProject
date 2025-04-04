@@ -1,0 +1,12 @@
+clear
+units si
+dimension 3
+atom_style body nparticle 1 500  # Define the atom style as body with nparticle types
+boundary p p p  # Periodic boundary conditions
+lattice sc 4.0
+region box block 0 100 0 100 0 100  # Increase the size of the box
+create_box 1 box
+create_atoms 1 random 100000 12345 NULL  # Create 100,000 atoms
+pair_style body/nparticle 2.5  # Use body/nparticle pair style
+pair_coeff * * 1.0 1.0  # Set pair coefficients
+run 10000

@@ -1,8 +1,8 @@
-# Install script for directory: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake
+# Install script for directory: /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/nfs/home/crawhojt/.local")
+  set(CMAKE_INSTALL_PREFIX "/nfs/home/sorrelsr/.local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -49,7 +49,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/lmp"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/lmp")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/lmp")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/lmp" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/lmp")
     file(RPATH_CHANGE
@@ -63,21 +63,21 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/man/man1" TYPE FILE RENAME "lmp.1" FILES "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/doc/lammps.1")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/man/man1" TYPE FILE RENAME "lmp.1" FILES "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/doc/lammps.1")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lammps" TYPE DIRECTORY FILES "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/bench")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lammps" TYPE DIRECTORY FILES "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/bench")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lammps" TYPE DIRECTORY FILES "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/potentials")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/lammps" TYPE DIRECTORY FILES "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/potentials")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/etc/profile.d" TYPE FILE FILES
-    "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/etc/profile.d/lammps.sh"
-    "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/etc/profile.d/lammps.csh"
+    "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/etc/profile.d/lammps.sh"
+    "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/etc/profile.d/lammps.csh"
     )
 endif()
 
@@ -89,5 +89,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

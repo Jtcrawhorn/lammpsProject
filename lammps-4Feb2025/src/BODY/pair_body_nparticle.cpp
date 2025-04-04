@@ -70,7 +70,6 @@ PairBodyNparticle::~PairBodyNparticle()
 
 void PairBodyNparticle::compute(int eflag, int vflag)
 {
-  //printf("\n\n\n\nin compute\n\n");
   int i,j,ii,jj,inum,jnum,itype,jtype;
   int ni,nj,npi,npj,ifirst,jfirst;
   double xtmp,ytmp,ztmp,delx,dely,delz,evdwl,fpair;

@@ -1,5 +1,4 @@
-# lammpsProject
- Put liblammps.a and lmp in the build file.
+Put liblammps.a and lmp in the build file.
  To run: mpirun -np 4 /nfs/home/USER_EID/cs470/lammpsProject/lammps-4Feb2025/build/lmp -in input.lj
  
  If you can't run it:

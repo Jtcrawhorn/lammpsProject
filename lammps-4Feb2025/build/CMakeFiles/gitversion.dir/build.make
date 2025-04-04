@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake
+CMAKE_SOURCE_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build
+CMAKE_BINARY_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build
 
 # Utility rule file for gitversion.
 
@@ -67,7 +67,7 @@ include CMakeFiles/gitversion.dir/compiler_depend.make
 include CMakeFiles/gitversion.dir/progress.make
 
 CMakeFiles/gitversion:
-	/usr/bin/cmake -DLAMMPS_DIR="/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025" -DGIT_EXECUTABLE="/usr/bin/git" -DGIT_FOUND="TRUE" -DLAMMPS_STYLE_HEADERS_DIR="/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/styles" -P /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules/generate_lmpgitversion.cmake
+	/usr/bin/cmake -DLAMMPS_DIR="/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025" -DGIT_EXECUTABLE="/usr/bin/git" -DGIT_FOUND="TRUE" -DLAMMPS_STYLE_HEADERS_DIR="/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/styles" -P /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules/generate_lmpgitversion.cmake
 
 gitversion: CMakeFiles/gitversion
 gitversion: CMakeFiles/gitversion.dir/build.make
@@ -82,6 +82,6 @@ CMakeFiles/gitversion.dir/clean:
 .PHONY : CMakeFiles/gitversion.dir/clean
 
 CMakeFiles/gitversion.dir/depend:
-	cd /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/gitversion.dir/DependInfo.cmake --color=$(COLOR)
+	cd /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/gitversion.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/gitversion.dir/depend
 
