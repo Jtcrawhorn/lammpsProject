@@ -5,8 +5,8 @@ dimension       2
 atom_style	body nparticle 2 30
 
 read_data       data.body
-variable xrep index 32
-variable yrep index 32
+variable xrep index 40
+variable yrep index 40
 
 replicate ${xrep} ${yrep} 1
 
