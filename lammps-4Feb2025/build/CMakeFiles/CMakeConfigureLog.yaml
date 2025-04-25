@@ -763,3 +763,76 @@ events:
         
       exitCode: 0
 ...
+
+---
+events:
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1278 (try_compile)"
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
+      - "CMakeLists.txt:400 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode normal"
+    directories:
+      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-lts9zy"
+      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-lts9zy"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_normal"
+      cached: true
+      stdout: |
+        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-lts9zy
+        
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_99009/fast && gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-lts9zy'
+        /usr/bin/gmake  -f CMakeFiles/cmTC_99009.dir/build.make CMakeFiles/cmTC_99009.dir/build
+        gmake[2]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-lts9zy'
+        Building CXX object CMakeFiles/cmTC_99009.dir/test_mpi.cpp.o
+        /usr/bin/c++ -DMPICH_SKIP_MPICXX -DOMPI_SKIP_MPICXX -D_MPICC_H -isystem /shared/common/mpich-4.2.0/include -std=c++17 -fPIE -o CMakeFiles/cmTC_99009.dir/test_mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-lts9zy/test_mpi.cpp
+        Linking CXX executable cmTC_99009
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_99009.dir/link.txt --verbose=1
+        /usr/bin/c++ -Wl,-rpath -Wl,/shared/common/mpich-4.2.0/lib -Wl,--enable-new-dtags CMakeFiles/cmTC_99009.dir/test_mpi.cpp.o -o cmTC_99009  -Wl,-rpath,/shared/common/mpich-4.2.0/lib /shared/common/mpich-4.2.0/lib/libmpicxx.so /shared/common/mpich-4.2.0/lib/libmpi.so 
+        gmake[2]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-lts9zy'
+        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-lts9zy'
+        
+      exitCode: 0
+  -
+    kind: "try_compile-v1"
+    backtrace:
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1278 (try_compile)"
+      - "/usr/share/cmake/Modules/FindMPI.cmake:1672 (_MPI_try_staged_settings)"
+      - "CMakeLists.txt:400 (find_package)"
+    description: "The MPI test test_mpi for CXX in mode MPICXX"
+    directories:
+      source: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-SBsulV"
+      binary: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-SBsulV"
+    cmakeVariables:
+      CMAKE_CXX_FLAGS: ""
+      CMAKE_CXX_FLAGS_DEBUG: "-g"
+      CMAKE_EXE_LINKER_FLAGS: ""
+      CMAKE_MODULE_PATH: "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake/Modules"
+      CMAKE_POSITION_INDEPENDENT_CODE: "ON"
+    buildResult:
+      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
+      cached: true
+      stdout: |
+        Change Dir: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-SBsulV
+        
+        Run Build Command(s):/usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_5901c/fast && gmake[1]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-SBsulV'
+        /usr/bin/gmake  -f CMakeFiles/cmTC_5901c.dir/build.make CMakeFiles/cmTC_5901c.dir/build
+        gmake[2]: Entering directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-SBsulV'
+        Building CXX object CMakeFiles/cmTC_5901c.dir/test_mpi.cpp.o
+        /usr/bin/c++ -DMPICH_SKIP_MPICXX -DOMPI_SKIP_MPICXX -D_MPICC_H -isystem /shared/common/mpich-4.2.0/include -std=c++17 -fPIE -o CMakeFiles/cmTC_5901c.dir/test_mpi.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-SBsulV/test_mpi.cpp
+        Linking CXX executable cmTC_5901c
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5901c.dir/link.txt --verbose=1
+        /usr/bin/c++ -Wl,-rpath -Wl,/shared/common/mpich-4.2.0/lib -Wl,--enable-new-dtags CMakeFiles/cmTC_5901c.dir/test_mpi.cpp.o -o cmTC_5901c  -Wl,-rpath,/shared/common/mpich-4.2.0/lib /shared/common/mpich-4.2.0/lib/libmpicxx.so /shared/common/mpich-4.2.0/lib/libmpi.so 
+        gmake[2]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-SBsulV'
+        gmake[1]: Leaving directory '/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/CMakeScratch/TryCompile-SBsulV'
+        
+      exitCode: 0
+...

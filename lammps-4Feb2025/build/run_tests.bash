@@ -4,16 +4,16 @@
 # For this project we are focused on improving the runtime. 
 
 # Run the serial tests for body style nparticle.
-# echo -e "Starting the serial nparticle tests.\n"
-# export OMP_NUM_THREADS=1
-# NUM_ATOMS=(10000 15000 20000 25000 30000 35000 40000 45000 50000 55000)
-# for ((i=0; i<${#NUM_ATOMS[@]}; i++))
-# do
-#     echo -e "nparticle test with ${NUM_ATOMS[i]} atoms"
-#     sed "s/create_atoms 1 random [0-9]\+ /create_atoms 1 random ${NUM_ATOMS[i]} /" test_nparticle.in > test_dynamic.in
-#     OMP_NUM_THREADS=1 srun ./lmp -in test_dynamic.in | grep "Total wall time"
-#     echo -e "\n---------------------------\n"
-# done
+echo -e "Starting the serial nparticle tests.\n"
+export OMP_NUM_THREADS=1
+NUM_ATOMS=(10000 15000 20000 25000 30000 35000 40000 45000 50000 55000)
+for ((i=0; i<${#NUM_ATOMS[@]}; i++))
+do
+    echo -e "nparticle test with ${NUM_ATOMS[i]} atoms"
+    sed "s/create_atoms 1 random [0-9]\+ /create_atoms 1 random ${NUM_ATOMS[i]} /" test_nparticle.in > test_dynamic.in
+    OMP_NUM_THREADS=1 srun ./lmp -in test_dynamic.in | grep "Total wall time"
+    echo -e "\n---------------------------\n"
+done
 
 # Run the serial tests for body style rounded/polygon.
 # echo -e "Starting the serial rounded/polygon tests.\n"

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "styles/gitversion.h"
-  "CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o"
-  "CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o.d"
+  "CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o"
+  "CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o.d"
   "lmp"
   "lmp.pdb"
 )

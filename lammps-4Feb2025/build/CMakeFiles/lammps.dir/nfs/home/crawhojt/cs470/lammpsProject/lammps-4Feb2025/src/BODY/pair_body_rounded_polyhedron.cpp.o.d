@@ -199,4 +199,5 @@ CMakeFiles/lammps.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/memory.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/modify.h \
  /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/neigh_list.h \
- /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/neighbor.h
+ /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/neighbor.h \
+ /usr/lib/gcc/x86_64-redhat-linux/8/include/omp.h

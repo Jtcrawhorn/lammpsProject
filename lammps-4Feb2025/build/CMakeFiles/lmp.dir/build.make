@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake
+CMAKE_SOURCE_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build
+CMAKE_BINARY_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/lmp.dir/depend.make
@@ -69,28 +69,28 @@ include CMakeFiles/lmp.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/lmp.dir/flags.make
 
-CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o: CMakeFiles/lmp.dir/flags.make
-CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o: /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp
-CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o: CMakeFiles/lmp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o -MF CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o.d -o CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o -c /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp
+CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o: CMakeFiles/lmp.dir/flags.make
+CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp
+CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o: CMakeFiles/lmp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o -MF CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o.d -o CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o -c /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp
 
-CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp > CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.i
+CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp > CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.i
 
-CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp -o CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.s
+CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp -o CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.s
 
 # Object files for target lmp
 lmp_OBJECTS = \
-"CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o"
+"CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o"
 
 # External object files for target lmp
 lmp_EXTERNAL_OBJECTS =
 
-lmp: CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o
+lmp: CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o
 lmp: CMakeFiles/lmp.dir/build.make
 lmp: liblammps.a
 lmp: /usr/lib/gcc/x86_64-redhat-linux/8/libgomp.so
@@ -101,7 +101,7 @@ lmp: /usr/lib64/libfftw3.so
 lmp: /usr/lib64/libfftw3_omp.so
 lmp: /usr/lib64/libm.so
 lmp: CMakeFiles/lmp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable lmp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable lmp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/lmp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -113,6 +113,6 @@ CMakeFiles/lmp.dir/clean:
 .PHONY : CMakeFiles/lmp.dir/clean
 
 CMakeFiles/lmp.dir/depend:
-	cd /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/lmp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/lmp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/lmp.dir/depend
 

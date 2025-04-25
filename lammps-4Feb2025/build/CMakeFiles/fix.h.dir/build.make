@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake
+CMAKE_SOURCE_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build
+CMAKE_BINARY_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build
 
 # Utility rule file for fix.h.
 
@@ -68,9 +68,9 @@ include CMakeFiles/fix.h.dir/progress.make
 
 CMakeFiles/fix.h: includes/lammps/fix.h
 
-includes/lammps/fix.h: /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/fix.h
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating includes/lammps/fix.h"
-	/usr/bin/cmake -E copy_if_different /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/fix.h /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/includes/lammps/fix.h
+includes/lammps/fix.h: /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix.h
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating includes/lammps/fix.h"
+	/usr/bin/cmake -E copy_if_different /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/fix.h /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/includes/lammps/fix.h
 
 fix.h: CMakeFiles/fix.h
 fix.h: includes/lammps/fix.h
@@ -86,6 +86,6 @@ CMakeFiles/fix.h.dir/clean:
 .PHONY : CMakeFiles/fix.h.dir/clean
 
 CMakeFiles/fix.h.dir/depend:
-	cd /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/fix.h.dir/DependInfo.cmake --color=$(COLOR)
+	cd /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/fix.h.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/fix.h.dir/depend
 

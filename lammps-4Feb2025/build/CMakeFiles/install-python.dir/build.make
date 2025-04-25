@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake
+CMAKE_SOURCE_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build
+CMAKE_BINARY_DIR = /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build
 
 # Utility rule file for install-python.
 
@@ -82,6 +82,6 @@ CMakeFiles/install-python.dir/clean:
 .PHONY : CMakeFiles/install-python.dir/clean
 
 CMakeFiles/install-python.dir/depend:
-	cd /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/install-python.dir/DependInfo.cmake --color=$(COLOR)
+	cd /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/cmake /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build /nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/CMakeFiles/install-python.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/install-python.dir/depend
 

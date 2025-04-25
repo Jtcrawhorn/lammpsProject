@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -DLAMMPS_SMALLBIG -DMPICH_SKIP_MPICXX -DOMPI_SKIP_MPICXX -D_MPICC_H
 
-CXX_INCLUDES = -I/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src -I/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/build/includes -isystem /shared/common/mpich-4.2.0/include
+CXX_INCLUDES = -I/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src -I/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/build/includes -isystem /shared/common/mpich-4.2.0/include
 
 CXX_FLAGS = -O2 -g -DNDEBUG -std=c++17 -fPIE -fopenmp
 

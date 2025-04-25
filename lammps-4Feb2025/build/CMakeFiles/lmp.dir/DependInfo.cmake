@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp" "CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o" "gcc" "CMakeFiles/lmp.dir/nfs/home/sorrelsr/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o.d"
+  "/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp" "CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o" "gcc" "CMakeFiles/lmp.dir/nfs/home/crawhojt/cs470/lammpsProject/lammps-4Feb2025/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
