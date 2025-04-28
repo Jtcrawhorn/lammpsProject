@@ -39,7 +39,7 @@
 #     done
 # done
 
-# echo -e "Starting the parallelized Demo rounded/polygon square tests with MPI.\n"
+# echo -e "This test results in a segmentation fault!\n"
 # THREADS=(8)
 # R_VALUES=(50)
 # for r in "${R_VALUES[@]}"; do 
@@ -53,7 +53,7 @@
 
 # echo -e "Starting the parallelized Demo rounded/polygon square tests with MPI.\n"
 THREADS=(64)
-R_VALUES=(90)
+R_VALUES=(70)
 for r in "${R_VALUES[@]}"; do 
     for t in "${THREADS[@]}"; do
         echo -e "squares test testing rounded/polygon body style with replication factor r=${r} and $t MPI threads"
@@ -72,7 +72,7 @@ done
 # ---------------------------
 
 # squares test testing rounded/polygon body style with replication factor r=70 and 64 MPI threads
-# Total wall time: 0:01:51
+# Total wall time: 0:01:39
 
 # ---------------------------
 
