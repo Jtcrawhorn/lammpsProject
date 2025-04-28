@@ -6,7 +6,7 @@
 # do 
 #     echo -e "Test nparticle body style with replication factor r=${r}"
 #     sed -e "s/^variable *xrep *index .*/variable xrep index ${r}/" -e "s/^variable *yrep *index .*/variable yrep index ${r}/" test_nparticle2.in > nparticle_input_r.in
-#     salloc -Q -n 1 mpirun ./lmp -in nparticle_input_r.in
+#     salloc -Q -n 1 mpirun ./lmp -in nparticle_input_r.in | grep "Total wall time"
 #     echo -e "\n---------------------------\n"
 
 # done
@@ -19,7 +19,7 @@
 #     for t in "${THREADS[@]}"; do
 #         echo -e "Test nparticle body style with replication factor r=${r} and $t MPI threads"
 #         sed -e "s/^variable *xrep *index .*/variable xrep index ${r}/" -e "s/^variable *yrep *index .*/variable yrep index ${r}/" test_nparticle2.in > nparticle_input_r.in
-#         salloc -Q -n $t mpirun ./lmp -in nparticle_input_r.in
+#         salloc -Q -n $t mpirun ./lmp -in nparticle_input_r.in | grep "Total wall time"
 #         echo -e "\n---------------------------\n"
 #     done
 # done
