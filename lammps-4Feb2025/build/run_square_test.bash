@@ -42,7 +42,7 @@
 # Show Lam this test in the demo to save time. 
 echo -e "Starting the parallelized Demo rounded/polygon square tests with MPI.\n"
 THREADS=(2 4 8 16 32)
-R_VALUES=(10)
+R_VALUES=(15)
 for r in "${R_VALUES[@]}"; do 
     for t in "${THREADS[@]}"; do
         echo -e "squares test testing rounded/polygon body style with replication factor r=${r} and $t MPI threads"

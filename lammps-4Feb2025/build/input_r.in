@@ -1,6 +1,6 @@
 # 2d rounded polygon bodies
 
-variable    r     index 25
+variable    r     index 15
 variable    steps index 100000
 variable    T     index 0.5
 variable    P     index 0.1

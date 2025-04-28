@@ -168,13 +168,13 @@ void PairBodyRoundedPolyhedron::compute(int eflag, int vflag)
   }
 
   ndiscrete = nedge = nface = 0;
-  # pragma omp parallel for
+  // # pragma omp parallel for
   for (i = 0; i < nall; i++)
     dnum[i] = ednum[i] = facnum[i] = 0;
 
   // loop over neighbors of my atoms
 
-  # pragma omp parallel for default(none) private(i, ii, xtmp, ytmp, ztmp, itype, jlit, jnum, j, jj, delx, dely, delz, rsq, jype)
+  // # pragma omp parallel for default(none) private(i, ii, xtmp, ytmp, ztmp, itype, jlit, jnum, j, jj, delx, dely, delz, rsq, jype)
   for (ii = 0; ii < inum; ii++) {
     i = ilist[ii];
     xtmp = x[i][0];

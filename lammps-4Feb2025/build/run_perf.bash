@@ -1,8 +1,12 @@
 #!/bin/bash
 
+# rm -f perf.rank0.data
+# rm -f perf.nparticle2.data
+# rm -f perf.rounded_polyhedron.data
+
 # Insights for rounded/polygon body style.
 # salloc mpirun -n 1 perf record -F 49 -o perf.rank0.data ./lmp -in squares.in
-# perf report -i perf.rank0.data
+perf report -i perf.rank0.data
 
 # Insights for nparticle body style.
 # salloc mpirun -n 1 perf record -F 49 -o perf.nparticle2.data ./lmp -in test_nparticle2.in
