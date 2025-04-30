@@ -46,23 +46,44 @@
 #     for t in "${THREADS[@]}"; do
 #         echo -e "squares test testing rounded/polygon body style with replication factor r=${r} and $t MPI threads"
 #         sed "s/^variable *r *index .*/variable    r     index ${r}/" squares.in > input_r.in
-#         salloc -Q -n $t mpirun ./lmp -in input_r.in | grep "Total wall time"
+#         salloc -Q -n $t mpirun ./lmp -in input_r.in
 #         echo -e "\n---------------------------\n"
 #     done
 # done
 
-# echo -e "Starting the parallelized Demo rounded/polygon square tests with MPI.\n"
-THREADS=(64)
-R_VALUES=(70)
-for r in "${R_VALUES[@]}"; do 
-    for t in "${THREADS[@]}"; do
-        echo -e "squares test testing rounded/polygon body style with replication factor r=${r} and $t MPI threads"
-        sed "s/^variable *r *index .*/variable    r     index ${r}/" squares.in > input_r.in
-        salloc -Q -n $t mpirun ./lmp -in input_r.in | grep "Total wall time"
-        echo -e "\n---------------------------\n"
-    done
-done
+# echo -e "Weak scaling tests with mpi.\n"
+# THREADS=(32)
+# R_VALUES=(50)
+# for r in "${R_VALUES[@]}"; do 
+#     for t in "${THREADS[@]}"; do
+#         echo -e "squares test testing rounded/polygon body style with replication factor r=${r} and $t MPI threads"
+#         sed "s/^variable *r *index .*/variable    r     index ${r}/" squares.in > input_r.in
+#         salloc -Q -n $t mpirun ./lmp -in input_r.in
+#         echo -e "\n---------------------------\n"
+#     done
+# done
 
+# THREADS=(64)
+# R_VALUES=(71)
+# for r in "${R_VALUES[@]}"; do 
+#     for t in "${THREADS[@]}"; do
+#         echo -e "squares test testing rounded/polygon body style with replication factor r=${r} and $t MPI threads"
+#         sed "s/^variable *r *index .*/variable    r     index ${r}/" squares.in > input_r.in
+#         salloc -Q -n $t mpirun ./lmp -in input_r.in
+#         echo -e "\n---------------------------\n"
+#     done
+# done
+
+# THREADS=(128)
+# R_VALUES=(100)
+# for r in "${R_VALUES[@]}"; do 
+#     for t in "${THREADS[@]}"; do
+#         echo -e "squares test testing rounded/polygon body style with replication factor r=${r} and $t MPI threads"
+#         sed "s/^variable *r *index .*/variable    r     index ${r}/" squares.in > input_r.in
+#         salloc -Q -n $t mpirun ./lmp -in input_r.in
+#         echo -e "\n---------------------------\n"
+#     done
+# done
 
 # For some reason when running the test R=50 and 8 ranks a seg fault occurs but works with every other thread count. 
 # Results from the test above
